@@ -36,7 +36,7 @@ HEADERS = {
     "Accept-Language": "en-US,en;q=0.9",
     "Cache-Control": "max-age=0",
     "Origin": "https://www.goodschools.com.au/",
-    "Referer": "https://www.goodschools.com.au/compare-schools/search/primary-school-and-high-school?keywords=&distance=&site_type=&grade_fee_range_grade=kinder_domestic&grade_fee_range_min=0&grade_fee_range_max=50000",
+    "Referer": "https://www.goodschools.com.au/",
     "Sec-Fetch-Site": "same-origin",
     "Upgrade-Insecure-Requests": "1",
     "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
@@ -133,15 +133,28 @@ class GSScraper:
                 state = re.search(r"[A-Z]{2,}", school["ADDRESS"]).group()
                 school["CITY"] = school["ADDRESS"].split(state)[0].strip()
 
+                address_list = school["ADDRESS"].split(state)
+
+                address_list = list(filter(lambda x: x.strip(), 
+                                           [part.lstrip(",").strip() for part in address_list]))
+
+                address_list.insert(1, state)
+
+                school["ADDRESS"] = ", ".join(address_list)
+
                 school["ID"] = re.search(r"\d+", school["URL"]).group()
 
                 for div in school_tag.select("div"):
                     try:
                         if re.search(r"level", div.select_one("b").text, re.I):
-                            school["LEVEL CODE"] = " ".join(div.get_text().strip().split(" ")[1:])
+                            level = div.get_text().strip()
+
+                            school["LEVEL CODE"] = " ".join(level.split(" ")[1:])
 
                         if re.search(r"sector", div.select_one("b").text, re.I):
-                            school["SCHOOL TYPE"] = " ".join(div.get_text().strip().split(" ")[1:])
+                            school_type = div.get_text().strip()
+
+                            school["SCHOOL TYPE"] = " ".join(school_type.split(" ")[1:])
 
                     except:pass
                 
@@ -185,7 +198,7 @@ class GSScraper:
         filename = "results_{}.csv".format(date.today())
 
         if not len(schools):
-            schools = self.schools
+            schools = [school for school in self.schools]
 
         df = pd.DataFrame(schools).drop_duplicates()
         
@@ -226,7 +239,7 @@ class GSScraper:
 
                 school_list = [school for school in self.schools]
 
-                if len(school_list) and (len(school_list) % 100) == 0:
+                if len(school_list) and (len(school_list) % 300) == 0:
                     self.__save_to_csv(school_list)
 
             self.crawled.append(page)
