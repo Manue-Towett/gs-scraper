@@ -1,6 +1,8 @@
 {
     "thread_num": 10,
-    "full_address": true,
-    "level_code_blacklist": ["e", "m", "h"],
-    "school_type_blacklist": []
+    "full_address": false,
+    "filter": {
+        "sectors": ["g", "c", "i"],
+        "levels": ["p", "s", "c"]
+    }
 }

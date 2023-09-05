@@ -14,9 +14,20 @@ from utils import Logger
 
 SCHOOLS = list[dict[str, str]]
 
+LEVEL_MAPPINGS = {
+    "p": "primary",
+    "s": "secondary",
+    "c": "combined"
+}
+
+TYPE_MAPPINGS = {
+    "g": "government",
+    "i": "independent",
+    "c": "catholic"
+}
+
 PARAMS = {
     "keywords": "",
-    "distance": "100km",
     "page": "2"
 }
 
@@ -47,7 +58,7 @@ class GSScraper:
 
         self.settings = self.__get_settings()
 
-        self.base_url = "https://www.goodschools.com.au/compare-schools/search"
+        self.base_url = "https://www.goodschools.com.au/compare-schools/search/{}"
 
     def __get_settings(self) -> dict[str, str|list[str]]:
         """Fetches settings from the config file"""
@@ -58,9 +69,9 @@ class GSScraper:
                      url: str, 
                      params: Optional[dict[str, str]] = None) -> BeautifulSoup:
         """Fetches the webpage with the given url"""
-        for _ in range(3):
+        while True:
             try:
-                response = requests.get(url, params=params, headers=HEADERS)
+                response = requests.get(url, params=params, headers=HEADERS, timeout=10)
                 
                 if response.ok:
                     return BeautifulSoup(response.text, "html.parser")
@@ -68,13 +79,40 @@ class GSScraper:
             except:
                 if params:
                     self.logger.warn(
-                        f"Error fetching info from page {params}. Retrying...")
+                        f"Error fetching info from page {params['page']}. Retrying...")
                 else:
                     self.logger.warn(
                         f"Error fetching info from {url}. Retrying...")
-        
-        self.logger.error(
-            "FATAL ERROR: Failed to retrieve info after three attempts!")
+    
+    def __extract_params(self, soup: BeautifulSoup) -> None:
+        """Extracts the filter params as per the settings"""
+        index, sectors = 0, []
+
+        for sector in soup.find_all("input", {"name": "sector_ids[]"}):
+            if sector["value"] in sectors: 
+                continue
+
+            for config_sector in self.settings["filter"]["sectors"]:
+                if re.search(TYPE_MAPPINGS[config_sector], sector["data-url-part"], re.I):
+                    PARAMS[f"sector_ids[{index}]"] = sector["value"]
+
+                    index += 1
+            
+            sectors.append(sector["value"])
+
+        index, levels = 0, []
+
+        for school in soup.find_all("input", {"name": "school_level_ids[]"}):
+            if school["value"] in levels: 
+                continue
+
+            for config_sector in self.settings["filter"]["levels"]:
+                if re.search(LEVEL_MAPPINGS[config_sector], school["data-url-part"], re.I):
+                    PARAMS[f"school_level_ids[{index}]"] = school["value"]
+
+                    index += 1
+            
+            levels.append(school["value"])
 
     def __extract_schools(self, soup: BeautifulSoup) -> SCHOOLS:
         """Extracts schools from html text"""
@@ -120,6 +158,11 @@ class GSScraper:
 
             soup = self.__fetch_page(school["URL"])
 
+            if not soup:
+                self.address_queue.task_done()
+                
+                continue
+
             school["ADDRESS"] = soup.select_one("span.map-address")["data-address"]
 
             self.url_queue.remove(school)
@@ -132,7 +175,7 @@ class GSScraper:
 
             self.address_queue.task_done()
 
-    def __save_to_csv(self) -> None:
+    def __save_to_csv(self, schools: Optional[list] = []) -> None:
         """Saves data retrieved to a csv file"""
         self.logger.info("Saving data retrieved to csv...")
 
@@ -141,7 +184,10 @@ class GSScraper:
         
         filename = "results_{}.csv".format(date.today())
 
-        df = pd.DataFrame(self.schools).drop_duplicates()
+        if not len(schools):
+            schools = self.schools
+
+        df = pd.DataFrame(schools).drop_duplicates()
         
         df.to_csv("./data/{}".format(filename), index=False)
 
@@ -166,17 +212,22 @@ class GSScraper:
         while True:
             page = self.queue.get()
 
-            soup = self.__fetch_page(self.base_url, {**PARAMS, "page": str(page)})
+            soup = self.__fetch_page(self.url, {**PARAMS, "page": str(page)})
 
             schools = self.__extract_schools(soup)
 
             for school in schools:
-                if school in self.schools \
-                    or school["LEVEL CODE"] in self.settings["level_code_blacklist"] \
-                        or school["SCHOOL TYPE"] in self.settings["school_type_blacklist"]:
+                school["LEVEL CODE"] = school["LEVEL CODE"][0].lower()
+
+                if school in self.schools :
                     continue
 
                 self.schools.append(school)
+
+                school_list = [school for school in self.schools]
+
+                if len(school_list) and (len(school_list) % 100) == 0:
+                    self.__save_to_csv(school_list)
 
             self.crawled.append(page)
             self.url_queue.remove(page)
@@ -187,23 +238,78 @@ class GSScraper:
                 "Queued Pages: {} || Crawled Pages: {} || Schools Found: {}".format(*args))
             
             self.queue.task_done()
-
-    def scrape(self) -> None:
-        """Entry point to the scraper"""
-        for _ in range(self.settings["thread_num"]):
-            threading.Thread(target=self.work, daemon=True).start()
-            threading.Thread(target=self.__get_full_address, daemon=True).start()
+    
+    def __scrape(self, url_slug: str) -> None:
+        """scrapes schools from the given url path"""
+        if url_slug is not None:
+            self.url = self.base_url.format(url_slug)
+        else:
+            self.logger.error("Please specify the levels in the filter settings!")
         
-        soup = self.__fetch_page(self.base_url, params=PARAMS)
+        soup = self.__fetch_page(self.url, params=PARAMS)
+
+        self.__extract_params(soup)
 
         number_of_pages = soup.select("li.page-item")[-2].a.get_text(strip=True)
 
-        self.__create_jobs(list(range(1, int(number_of_pages.replace(",", "")))))
+        self.__create_jobs(list(range(1, int(number_of_pages.replace(",", "")) + 1)))
 
         if self.settings["full_address"]:
             self.logger.info("Fetching full addresses...")
 
             self.__create_jobs(self.schools, for_address=True)
+
+    def scrape(self) -> None:
+        """Entry point to the scraper"""
+        for _ in range(self.settings["thread_num"]):
+            threading.Thread(target=self.work, daemon=True).start()
+
+            if self.settings["full_address"]:
+                threading.Thread(target=self.__get_full_address, daemon=True).start()
+        
+        level_slug, type_slug, url_slug = None, None, None
+
+        for key, value in LEVEL_MAPPINGS.items():
+            if key in self.settings["filter"]["levels"]:
+                if level_slug is None:
+                    level_slug = value
+                else:
+                    level_slug += f"-and-{value}"
+
+        for key, value in TYPE_MAPPINGS.items():
+            if key == "c":
+                continue
+            
+            if key in self.settings["filter"]["sectors"]:
+                if type_slug is None:
+                    type_slug = value
+                else:
+                    type_slug += f"-and-{value}"
+
+        if type_slug:
+            self.logger.info(
+                f"Scraping schools from {type_slug.replace('-', ' ')} sector")
+            url_slug = type_slug
+        
+        if level_slug:
+            if type_slug:
+                url_slug += f"/{level_slug}"
+            else:
+                url_slug = level_slug
+        
+        self.__scrape(url_slug)
+
+        if "c" in self.settings["filter"]["sectors"]:
+            self.logger.info("Scraping schools from catholic sector")
+
+            type_slug = TYPE_MAPPINGS['c']
+
+            if level_slug is not None:
+                url_slug = f"{type_slug}/{level_slug}"
+            else:
+                url_slug = type_slug
+            
+            self.__scrape(url_slug)
         
         self.__save_to_csv()
 

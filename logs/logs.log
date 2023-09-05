@@ -1,926 +1,124 @@
 GSScraper:INFO - *****GSScraper*****
-GSScraper:INFO - Queued Pages: 921 || Crawled Pages: 1 || Schools Found: 10
-GSScraper:INFO - Queued Pages: 920 || Crawled Pages: 2 || Schools Found: 20
-GSScraper:INFO - Queued Pages: 919 || Crawled Pages: 3 || Schools Found: 30
-GSScraper:INFO - Queued Pages: 918 || Crawled Pages: 4 || Schools Found: 40
-GSScraper:INFO - Queued Pages: 917 || Crawled Pages: 5 || Schools Found: 50
-GSScraper:INFO - Queued Pages: 916 || Crawled Pages: 6 || Schools Found: 60
-GSScraper:INFO - Queued Pages: 915 || Crawled Pages: 7 || Schools Found: 70
-GSScraper:INFO - Queued Pages: 914 || Crawled Pages: 8 || Schools Found: 80
-GSScraper:INFO - Queued Pages: 913 || Crawled Pages: 9 || Schools Found: 89
-GSScraper:INFO - Queued Pages: 912 || Crawled Pages: 10 || Schools Found: 98
-GSScraper:INFO - Queued Pages: 911 || Crawled Pages: 11 || Schools Found: 108
-GSScraper:INFO - Queued Pages: 910 || Crawled Pages: 12 || Schools Found: 118
-GSScraper:INFO - Queued Pages: 909 || Crawled Pages: 13 || Schools Found: 128
-GSScraper:INFO - Queued Pages: 908 || Crawled Pages: 14 || Schools Found: 138
-GSScraper:INFO - Queued Pages: 907 || Crawled Pages: 15 || Schools Found: 148
-GSScraper:INFO - Queued Pages: 906 || Crawled Pages: 16 || Schools Found: 158
-GSScraper:INFO - Queued Pages: 905 || Crawled Pages: 17 || Schools Found: 168
-GSScraper:INFO - Queued Pages: 904 || Crawled Pages: 18 || Schools Found: 178
-GSScraper:INFO - Queued Pages: 903 || Crawled Pages: 19 || Schools Found: 188
-GSScraper:INFO - Queued Pages: 902 || Crawled Pages: 20 || Schools Found: 198
-GSScraper:INFO - Queued Pages: 901 || Crawled Pages: 21 || Schools Found: 208
-GSScraper:INFO - Queued Pages: 900 || Crawled Pages: 22 || Schools Found: 218
-GSScraper:INFO - Queued Pages: 899 || Crawled Pages: 23 || Schools Found: 228
-GSScraper:INFO - Queued Pages: 898 || Crawled Pages: 24 || Schools Found: 238
-GSScraper:INFO - Queued Pages: 897 || Crawled Pages: 25 || Schools Found: 248
-GSScraper:INFO - Queued Pages: 896 || Crawled Pages: 26 || Schools Found: 258
-GSScraper:INFO - Queued Pages: 895 || Crawled Pages: 27 || Schools Found: 268
-GSScraper:INFO - Queued Pages: 894 || Crawled Pages: 28 || Schools Found: 278
-GSScraper:INFO - Queued Pages: 893 || Crawled Pages: 29 || Schools Found: 288
-GSScraper:INFO - Queued Pages: 892 || Crawled Pages: 30 || Schools Found: 298
-GSScraper:INFO - Queued Pages: 891 || Crawled Pages: 31 || Schools Found: 308
-GSScraper:INFO - Queued Pages: 890 || Crawled Pages: 32 || Schools Found: 318
-GSScraper:INFO - Queued Pages: 889 || Crawled Pages: 33 || Schools Found: 328
-GSScraper:INFO - Queued Pages: 888 || Crawled Pages: 34 || Schools Found: 338
-GSScraper:INFO - Queued Pages: 887 || Crawled Pages: 35 || Schools Found: 348
-GSScraper:INFO - Queued Pages: 886 || Crawled Pages: 36 || Schools Found: 358
-GSScraper:INFO - Queued Pages: 885 || Crawled Pages: 37 || Schools Found: 368
-GSScraper:INFO - Queued Pages: 884 || Crawled Pages: 38 || Schools Found: 378
-GSScraper:INFO - Queued Pages: 883 || Crawled Pages: 39 || Schools Found: 388
-GSScraper:INFO - Queued Pages: 882 || Crawled Pages: 40 || Schools Found: 398
-GSScraper:INFO - Queued Pages: 881 || Crawled Pages: 41 || Schools Found: 408
-GSScraper:INFO - Queued Pages: 880 || Crawled Pages: 42 || Schools Found: 418
-GSScraper:INFO - Queued Pages: 879 || Crawled Pages: 43 || Schools Found: 428
-GSScraper:INFO - Queued Pages: 878 || Crawled Pages: 44 || Schools Found: 438
-GSScraper:INFO - Queued Pages: 877 || Crawled Pages: 45 || Schools Found: 448
-GSScraper:INFO - Queued Pages: 876 || Crawled Pages: 46 || Schools Found: 458
-GSScraper:WARNING - Error fetching info from page {'keywords': '', 'distance': '100km', 'page': '55'}. Retrying...
-GSScraper:WARNING - Error fetching info from page {'keywords': '', 'distance': '100km', 'page': '53'}. Retrying...
-GSScraper:INFO - Queued Pages: 875 || Crawled Pages: 47 || Schools Found: 468
-GSScraper:INFO - Queued Pages: 874 || Crawled Pages: 48 || Schools Found: 478
-GSScraper:INFO - Queued Pages: 873 || Crawled Pages: 49 || Schools Found: 488
-GSScraper:INFO - Queued Pages: 872 || Crawled Pages: 50 || Schools Found: 498
-GSScraper:INFO - Queued Pages: 871 || Crawled Pages: 51 || Schools Found: 508
-GSScraper:INFO - Queued Pages: 870 || Crawled Pages: 52 || Schools Found: 518
-GSScraper:INFO - Queued Pages: 869 || Crawled Pages: 53 || Schools Found: 528
-GSScraper:INFO - Queued Pages: 868 || Crawled Pages: 54 || Schools Found: 538
-GSScraper:INFO - Queued Pages: 867 || Crawled Pages: 55 || Schools Found: 548
-GSScraper:INFO - Queued Pages: 866 || Crawled Pages: 56 || Schools Found: 558
-GSScraper:INFO - Queued Pages: 865 || Crawled Pages: 57 || Schools Found: 568
-GSScraper:INFO - Queued Pages: 864 || Crawled Pages: 58 || Schools Found: 578
-GSScraper:INFO - Queued Pages: 863 || Crawled Pages: 59 || Schools Found: 588
-GSScraper:INFO - Queued Pages: 862 || Crawled Pages: 60 || Schools Found: 598
-GSScraper:INFO - Queued Pages: 861 || Crawled Pages: 61 || Schools Found: 608
-GSScraper:INFO - Queued Pages: 860 || Crawled Pages: 62 || Schools Found: 618
-GSScraper:INFO - Queued Pages: 859 || Crawled Pages: 63 || Schools Found: 628
-GSScraper:INFO - Queued Pages: 858 || Crawled Pages: 64 || Schools Found: 638
-GSScraper:INFO - Queued Pages: 857 || Crawled Pages: 65 || Schools Found: 648
-GSScraper:INFO - Queued Pages: 856 || Crawled Pages: 66 || Schools Found: 658
-GSScraper:INFO - Queued Pages: 855 || Crawled Pages: 67 || Schools Found: 668
-GSScraper:INFO - Queued Pages: 854 || Crawled Pages: 68 || Schools Found: 678
-GSScraper:INFO - Queued Pages: 853 || Crawled Pages: 69 || Schools Found: 688
-GSScraper:INFO - Queued Pages: 852 || Crawled Pages: 70 || Schools Found: 698
-GSScraper:INFO - Queued Pages: 851 || Crawled Pages: 71 || Schools Found: 708
-GSScraper:INFO - Queued Pages: 850 || Crawled Pages: 72 || Schools Found: 718
-GSScraper:INFO - Queued Pages: 849 || Crawled Pages: 73 || Schools Found: 728
-GSScraper:INFO - Queued Pages: 848 || Crawled Pages: 74 || Schools Found: 738
-GSScraper:INFO - Queued Pages: 847 || Crawled Pages: 75 || Schools Found: 747
-GSScraper:INFO - Queued Pages: 846 || Crawled Pages: 76 || Schools Found: 757
-GSScraper:INFO - Queued Pages: 845 || Crawled Pages: 77 || Schools Found: 767
-GSScraper:INFO - Queued Pages: 844 || Crawled Pages: 78 || Schools Found: 777
-GSScraper:INFO - Queued Pages: 843 || Crawled Pages: 79 || Schools Found: 787
-GSScraper:INFO - Queued Pages: 842 || Crawled Pages: 80 || Schools Found: 797
-GSScraper:INFO - Queued Pages: 841 || Crawled Pages: 81 || Schools Found: 807
-GSScraper:INFO - Queued Pages: 840 || Crawled Pages: 82 || Schools Found: 817
-GSScraper:INFO - Queued Pages: 839 || Crawled Pages: 83 || Schools Found: 827
-GSScraper:INFO - Queued Pages: 838 || Crawled Pages: 84 || Schools Found: 837
-GSScraper:INFO - Queued Pages: 837 || Crawled Pages: 85 || Schools Found: 847
-GSScraper:INFO - Queued Pages: 836 || Crawled Pages: 86 || Schools Found: 857
-GSScraper:INFO - Queued Pages: 835 || Crawled Pages: 87 || Schools Found: 867
-GSScraper:INFO - Queued Pages: 834 || Crawled Pages: 88 || Schools Found: 877
-GSScraper:INFO - Queued Pages: 833 || Crawled Pages: 89 || Schools Found: 887
-GSScraper:INFO - Queued Pages: 832 || Crawled Pages: 90 || Schools Found: 897
-GSScraper:INFO - Queued Pages: 831 || Crawled Pages: 91 || Schools Found: 907
-GSScraper:INFO - Queued Pages: 830 || Crawled Pages: 92 || Schools Found: 917
-GSScraper:INFO - Queued Pages: 829 || Crawled Pages: 93 || Schools Found: 927
-GSScraper:INFO - Queued Pages: 828 || Crawled Pages: 94 || Schools Found: 937
-GSScraper:INFO - Queued Pages: 827 || Crawled Pages: 95 || Schools Found: 947
-GSScraper:INFO - Queued Pages: 826 || Crawled Pages: 96 || Schools Found: 957
-GSScraper:INFO - Queued Pages: 825 || Crawled Pages: 97 || Schools Found: 967
-GSScraper:INFO - Queued Pages: 824 || Crawled Pages: 98 || Schools Found: 977
-GSScraper:INFO - Queued Pages: 823 || Crawled Pages: 99 || Schools Found: 987
-GSScraper:INFO - Queued Pages: 822 || Crawled Pages: 100 || Schools Found: 997
-GSScraper:INFO - Queued Pages: 821 || Crawled Pages: 101 || Schools Found: 1007
-GSScraper:INFO - Queued Pages: 820 || Crawled Pages: 102 || Schools Found: 1017
-GSScraper:INFO - Queued Pages: 819 || Crawled Pages: 103 || Schools Found: 1027
-GSScraper:INFO - Queued Pages: 818 || Crawled Pages: 104 || Schools Found: 1037
-GSScraper:INFO - Queued Pages: 817 || Crawled Pages: 105 || Schools Found: 1047
-GSScraper:INFO - Queued Pages: 816 || Crawled Pages: 106 || Schools Found: 1057
-GSScraper:INFO - Queued Pages: 815 || Crawled Pages: 107 || Schools Found: 1067
-GSScraper:INFO - Queued Pages: 814 || Crawled Pages: 108 || Schools Found: 1077
-GSScraper:INFO - Queued Pages: 813 || Crawled Pages: 109 || Schools Found: 1087
-GSScraper:INFO - Queued Pages: 812 || Crawled Pages: 110 || Schools Found: 1097
-GSScraper:INFO - Queued Pages: 811 || Crawled Pages: 111 || Schools Found: 1107
-GSScraper:INFO - Queued Pages: 810 || Crawled Pages: 112 || Schools Found: 1117
-GSScraper:INFO - Queued Pages: 809 || Crawled Pages: 113 || Schools Found: 1127
-GSScraper:INFO - Queued Pages: 808 || Crawled Pages: 114 || Schools Found: 1137
-GSScraper:INFO - Queued Pages: 807 || Crawled Pages: 115 || Schools Found: 1147
-GSScraper:INFO - Queued Pages: 806 || Crawled Pages: 116 || Schools Found: 1157
-GSScraper:INFO - Queued Pages: 805 || Crawled Pages: 117 || Schools Found: 1167
-GSScraper:INFO - Queued Pages: 804 || Crawled Pages: 118 || Schools Found: 1177
-GSScraper:INFO - Queued Pages: 803 || Crawled Pages: 119 || Schools Found: 1187
-GSScraper:INFO - Queued Pages: 802 || Crawled Pages: 120 || Schools Found: 1197
-GSScraper:INFO - Queued Pages: 801 || Crawled Pages: 121 || Schools Found: 1207
-GSScraper:INFO - Queued Pages: 800 || Crawled Pages: 122 || Schools Found: 1217
-GSScraper:INFO - Queued Pages: 799 || Crawled Pages: 123 || Schools Found: 1227
-GSScraper:INFO - Queued Pages: 798 || Crawled Pages: 124 || Schools Found: 1237
-GSScraper:INFO - Queued Pages: 797 || Crawled Pages: 125 || Schools Found: 1247
-GSScraper:INFO - Queued Pages: 796 || Crawled Pages: 126 || Schools Found: 1257
-GSScraper:INFO - Queued Pages: 795 || Crawled Pages: 127 || Schools Found: 1267
-GSScraper:INFO - Queued Pages: 794 || Crawled Pages: 128 || Schools Found: 1277
-GSScraper:INFO - Queued Pages: 793 || Crawled Pages: 129 || Schools Found: 1287
-GSScraper:INFO - Queued Pages: 792 || Crawled Pages: 130 || Schools Found: 1297
-GSScraper:INFO - Queued Pages: 791 || Crawled Pages: 131 || Schools Found: 1307
-GSScraper:INFO - Queued Pages: 790 || Crawled Pages: 132 || Schools Found: 1317
-GSScraper:INFO - Queued Pages: 789 || Crawled Pages: 133 || Schools Found: 1327
-GSScraper:INFO - Queued Pages: 788 || Crawled Pages: 134 || Schools Found: 1337
-GSScraper:INFO - Queued Pages: 787 || Crawled Pages: 135 || Schools Found: 1347
-GSScraper:INFO - Queued Pages: 786 || Crawled Pages: 136 || Schools Found: 1357
-GSScraper:INFO - Queued Pages: 785 || Crawled Pages: 137 || Schools Found: 1367
-GSScraper:INFO - Queued Pages: 784 || Crawled Pages: 138 || Schools Found: 1377
-GSScraper:INFO - Queued Pages: 783 || Crawled Pages: 139 || Schools Found: 1387
-GSScraper:INFO - Queued Pages: 782 || Crawled Pages: 140 || Schools Found: 1397
-GSScraper:INFO - Queued Pages: 781 || Crawled Pages: 141 || Schools Found: 1407
-GSScraper:INFO - Queued Pages: 780 || Crawled Pages: 142 || Schools Found: 1417
-GSScraper:INFO - Queued Pages: 779 || Crawled Pages: 143 || Schools Found: 1427
-GSScraper:INFO - Queued Pages: 778 || Crawled Pages: 144 || Schools Found: 1436
-GSScraper:INFO - Queued Pages: 777 || Crawled Pages: 145 || Schools Found: 1446
-GSScraper:INFO - Queued Pages: 776 || Crawled Pages: 146 || Schools Found: 1458
-GSScraper:INFO - Queued Pages: 775 || Crawled Pages: 147 || Schools Found: 1466
-GSScraper:INFO - Queued Pages: 774 || Crawled Pages: 148 || Schools Found: 1476
-GSScraper:INFO - Queued Pages: 773 || Crawled Pages: 149 || Schools Found: 1486
-GSScraper:INFO - Queued Pages: 772 || Crawled Pages: 150 || Schools Found: 1496
-GSScraper:INFO - Queued Pages: 771 || Crawled Pages: 151 || Schools Found: 1506
-GSScraper:INFO - Queued Pages: 770 || Crawled Pages: 152 || Schools Found: 1516
-GSScraper:INFO - Queued Pages: 769 || Crawled Pages: 153 || Schools Found: 1526
-GSScraper:INFO - Queued Pages: 768 || Crawled Pages: 154 || Schools Found: 1536
-GSScraper:INFO - Queued Pages: 767 || Crawled Pages: 155 || Schools Found: 1546
-GSScraper:INFO - Queued Pages: 766 || Crawled Pages: 156 || Schools Found: 1556
-GSScraper:INFO - Queued Pages: 765 || Crawled Pages: 157 || Schools Found: 1566
-GSScraper:INFO - Queued Pages: 764 || Crawled Pages: 158 || Schools Found: 1576
-GSScraper:INFO - Queued Pages: 763 || Crawled Pages: 159 || Schools Found: 1586
-GSScraper:INFO - Queued Pages: 762 || Crawled Pages: 160 || Schools Found: 1596
-GSScraper:INFO - Queued Pages: 761 || Crawled Pages: 161 || Schools Found: 1606
-GSScraper:INFO - Queued Pages: 760 || Crawled Pages: 162 || Schools Found: 1616
-GSScraper:INFO - Queued Pages: 759 || Crawled Pages: 163 || Schools Found: 1626
-GSScraper:INFO - Queued Pages: 758 || Crawled Pages: 164 || Schools Found: 1636
-GSScraper:INFO - Queued Pages: 757 || Crawled Pages: 165 || Schools Found: 1646
-GSScraper:INFO - Queued Pages: 756 || Crawled Pages: 166 || Schools Found: 1656
-GSScraper:INFO - Queued Pages: 755 || Crawled Pages: 167 || Schools Found: 1666
-GSScraper:INFO - Queued Pages: 754 || Crawled Pages: 168 || Schools Found: 1676
-GSScraper:INFO - Queued Pages: 753 || Crawled Pages: 169 || Schools Found: 1686
-GSScraper:INFO - Queued Pages: 752 || Crawled Pages: 170 || Schools Found: 1696
-GSScraper:INFO - Queued Pages: 751 || Crawled Pages: 171 || Schools Found: 1706
-GSScraper:INFO - Queued Pages: 750 || Crawled Pages: 172 || Schools Found: 1716
-GSScraper:INFO - Queued Pages: 749 || Crawled Pages: 173 || Schools Found: 1726
-GSScraper:INFO - Queued Pages: 748 || Crawled Pages: 174 || Schools Found: 1736
-GSScraper:INFO - Queued Pages: 747 || Crawled Pages: 175 || Schools Found: 1746
-GSScraper:INFO - Queued Pages: 746 || Crawled Pages: 176 || Schools Found: 1756
-GSScraper:INFO - Queued Pages: 745 || Crawled Pages: 177 || Schools Found: 1766
-GSScraper:INFO - Queued Pages: 744 || Crawled Pages: 178 || Schools Found: 1776
-GSScraper:INFO - Queued Pages: 743 || Crawled Pages: 179 || Schools Found: 1786
-GSScraper:INFO - Queued Pages: 742 || Crawled Pages: 180 || Schools Found: 1796
-GSScraper:INFO - Queued Pages: 741 || Crawled Pages: 181 || Schools Found: 1806
-GSScraper:INFO - Queued Pages: 740 || Crawled Pages: 182 || Schools Found: 1816
-GSScraper:INFO - Queued Pages: 739 || Crawled Pages: 183 || Schools Found: 1826
-GSScraper:INFO - Queued Pages: 738 || Crawled Pages: 184 || Schools Found: 1836
-GSScraper:INFO - Queued Pages: 737 || Crawled Pages: 185 || Schools Found: 1846
-GSScraper:INFO - Queued Pages: 736 || Crawled Pages: 186 || Schools Found: 1856
-GSScraper:INFO - Queued Pages: 735 || Crawled Pages: 187 || Schools Found: 1866
-GSScraper:INFO - Queued Pages: 734 || Crawled Pages: 188 || Schools Found: 1876
-GSScraper:INFO - Queued Pages: 733 || Crawled Pages: 189 || Schools Found: 1886
-GSScraper:INFO - Queued Pages: 732 || Crawled Pages: 190 || Schools Found: 1896
-GSScraper:INFO - Queued Pages: 731 || Crawled Pages: 191 || Schools Found: 1906
-GSScraper:INFO - Queued Pages: 730 || Crawled Pages: 192 || Schools Found: 1916
-GSScraper:INFO - Queued Pages: 729 || Crawled Pages: 193 || Schools Found: 1926
-GSScraper:INFO - Queued Pages: 728 || Crawled Pages: 194 || Schools Found: 1936
-GSScraper:INFO - Queued Pages: 727 || Crawled Pages: 195 || Schools Found: 1946
-GSScraper:INFO - Queued Pages: 726 || Crawled Pages: 196 || Schools Found: 1956
-GSScraper:INFO - Queued Pages: 725 || Crawled Pages: 197 || Schools Found: 1966
-GSScraper:INFO - Queued Pages: 724 || Crawled Pages: 198 || Schools Found: 1976
-GSScraper:INFO - Queued Pages: 723 || Crawled Pages: 199 || Schools Found: 1986
-GSScraper:INFO - Queued Pages: 722 || Crawled Pages: 200 || Schools Found: 1996
-GSScraper:INFO - Queued Pages: 721 || Crawled Pages: 201 || Schools Found: 2006
-GSScraper:INFO - Queued Pages: 720 || Crawled Pages: 202 || Schools Found: 2016
-GSScraper:INFO - Queued Pages: 719 || Crawled Pages: 203 || Schools Found: 2026
-GSScraper:INFO - Queued Pages: 718 || Crawled Pages: 204 || Schools Found: 2037
-GSScraper:INFO - Queued Pages: 717 || Crawled Pages: 205 || Schools Found: 2045
-GSScraper:INFO - Queued Pages: 716 || Crawled Pages: 206 || Schools Found: 2055
-GSScraper:INFO - Queued Pages: 715 || Crawled Pages: 207 || Schools Found: 2065
-GSScraper:INFO - Queued Pages: 714 || Crawled Pages: 208 || Schools Found: 2075
-GSScraper:INFO - Queued Pages: 713 || Crawled Pages: 209 || Schools Found: 2085
-GSScraper:INFO - Queued Pages: 712 || Crawled Pages: 210 || Schools Found: 2095
-GSScraper:INFO - Queued Pages: 711 || Crawled Pages: 211 || Schools Found: 2105
-GSScraper:INFO - Queued Pages: 710 || Crawled Pages: 212 || Schools Found: 2115
-GSScraper:INFO - Queued Pages: 709 || Crawled Pages: 213 || Schools Found: 2125
-GSScraper:INFO - Queued Pages: 708 || Crawled Pages: 214 || Schools Found: 2135
-GSScraper:INFO - Queued Pages: 707 || Crawled Pages: 215 || Schools Found: 2145
-GSScraper:INFO - Queued Pages: 706 || Crawled Pages: 216 || Schools Found: 2155
-GSScraper:INFO - Queued Pages: 705 || Crawled Pages: 217 || Schools Found: 2165
-GSScraper:INFO - Queued Pages: 704 || Crawled Pages: 218 || Schools Found: 2175
-GSScraper:INFO - Queued Pages: 703 || Crawled Pages: 219 || Schools Found: 2185
-GSScraper:INFO - Queued Pages: 702 || Crawled Pages: 220 || Schools Found: 2194
-GSScraper:INFO - Queued Pages: 701 || Crawled Pages: 221 || Schools Found: 2204
-GSScraper:INFO - Queued Pages: 700 || Crawled Pages: 222 || Schools Found: 2214
-GSScraper:INFO - Queued Pages: 699 || Crawled Pages: 223 || Schools Found: 2224
-GSScraper:INFO - Queued Pages: 698 || Crawled Pages: 224 || Schools Found: 2234
-GSScraper:INFO - Queued Pages: 697 || Crawled Pages: 225 || Schools Found: 2244
-GSScraper:INFO - Queued Pages: 696 || Crawled Pages: 226 || Schools Found: 2254
-GSScraper:INFO - Queued Pages: 695 || Crawled Pages: 227 || Schools Found: 2264
-GSScraper:INFO - Queued Pages: 694 || Crawled Pages: 228 || Schools Found: 2279
-GSScraper:INFO - Queued Pages: 693 || Crawled Pages: 229 || Schools Found: 2284
-GSScraper:INFO - Queued Pages: 692 || Crawled Pages: 230 || Schools Found: 2294
-GSScraper:INFO - Queued Pages: 691 || Crawled Pages: 231 || Schools Found: 2304
-GSScraper:INFO - Queued Pages: 690 || Crawled Pages: 232 || Schools Found: 2314
-GSScraper:INFO - Queued Pages: 689 || Crawled Pages: 233 || Schools Found: 2324
-GSScraper:INFO - Queued Pages: 688 || Crawled Pages: 234 || Schools Found: 2334
-GSScraper:INFO - Queued Pages: 687 || Crawled Pages: 235 || Schools Found: 2344
-GSScraper:INFO - Queued Pages: 686 || Crawled Pages: 236 || Schools Found: 2354
-GSScraper:INFO - Queued Pages: 685 || Crawled Pages: 237 || Schools Found: 2364
-GSScraper:INFO - Queued Pages: 684 || Crawled Pages: 238 || Schools Found: 2374
-GSScraper:INFO - Queued Pages: 683 || Crawled Pages: 239 || Schools Found: 2384
-GSScraper:INFO - Queued Pages: 682 || Crawled Pages: 240 || Schools Found: 2394
-GSScraper:INFO - Queued Pages: 681 || Crawled Pages: 241 || Schools Found: 2404
-GSScraper:INFO - Queued Pages: 680 || Crawled Pages: 242 || Schools Found: 2414
-GSScraper:INFO - Queued Pages: 679 || Crawled Pages: 243 || Schools Found: 2424
-GSScraper:INFO - Queued Pages: 678 || Crawled Pages: 244 || Schools Found: 2434
-GSScraper:INFO - Queued Pages: 677 || Crawled Pages: 245 || Schools Found: 2444
-GSScraper:INFO - Queued Pages: 676 || Crawled Pages: 246 || Schools Found: 2454
-GSScraper:INFO - Queued Pages: 675 || Crawled Pages: 247 || Schools Found: 2464
-GSScraper:INFO - Queued Pages: 674 || Crawled Pages: 248 || Schools Found: 2474
-GSScraper:INFO - Queued Pages: 673 || Crawled Pages: 249 || Schools Found: 2484
-GSScraper:INFO - Queued Pages: 672 || Crawled Pages: 250 || Schools Found: 2494
-GSScraper:INFO - Queued Pages: 671 || Crawled Pages: 251 || Schools Found: 2504
-GSScraper:INFO - Queued Pages: 670 || Crawled Pages: 252 || Schools Found: 2514
-GSScraper:INFO - Queued Pages: 669 || Crawled Pages: 253 || Schools Found: 2524
-GSScraper:INFO - Queued Pages: 668 || Crawled Pages: 254 || Schools Found: 2534
-GSScraper:INFO - Queued Pages: 667 || Crawled Pages: 255 || Schools Found: 2544
-GSScraper:INFO - Queued Pages: 666 || Crawled Pages: 256 || Schools Found: 2554
-GSScraper:INFO - Queued Pages: 665 || Crawled Pages: 257 || Schools Found: 2564
-GSScraper:INFO - Queued Pages: 664 || Crawled Pages: 258 || Schools Found: 2574
-GSScraper:INFO - Queued Pages: 663 || Crawled Pages: 259 || Schools Found: 2583
-GSScraper:INFO - Queued Pages: 662 || Crawled Pages: 260 || Schools Found: 2593
-GSScraper:INFO - Queued Pages: 661 || Crawled Pages: 261 || Schools Found: 2603
-GSScraper:INFO - Queued Pages: 660 || Crawled Pages: 262 || Schools Found: 2613
-GSScraper:INFO - Queued Pages: 659 || Crawled Pages: 263 || Schools Found: 2628
-GSScraper:INFO - Queued Pages: 658 || Crawled Pages: 264 || Schools Found: 2633
-GSScraper:INFO - Queued Pages: 657 || Crawled Pages: 265 || Schools Found: 2643
-GSScraper:INFO - Queued Pages: 656 || Crawled Pages: 266 || Schools Found: 2653
-GSScraper:INFO - Queued Pages: 655 || Crawled Pages: 267 || Schools Found: 2663
-GSScraper:INFO - Queued Pages: 654 || Crawled Pages: 268 || Schools Found: 2673
-GSScraper:INFO - Queued Pages: 653 || Crawled Pages: 269 || Schools Found: 2683
-GSScraper:INFO - Queued Pages: 652 || Crawled Pages: 270 || Schools Found: 2693
-GSScraper:INFO - Queued Pages: 651 || Crawled Pages: 271 || Schools Found: 2703
-GSScraper:INFO - Queued Pages: 650 || Crawled Pages: 272 || Schools Found: 2713
-GSScraper:INFO - Queued Pages: 649 || Crawled Pages: 273 || Schools Found: 2723
-GSScraper:INFO - Queued Pages: 648 || Crawled Pages: 274 || Schools Found: 2733
-GSScraper:INFO - Queued Pages: 647 || Crawled Pages: 275 || Schools Found: 2743
-GSScraper:INFO - Queued Pages: 646 || Crawled Pages: 276 || Schools Found: 2753
-GSScraper:INFO - Queued Pages: 645 || Crawled Pages: 277 || Schools Found: 2763
-GSScraper:INFO - Queued Pages: 644 || Crawled Pages: 278 || Schools Found: 2773
-GSScraper:INFO - Queued Pages: 643 || Crawled Pages: 279 || Schools Found: 2783
-GSScraper:INFO - Queued Pages: 642 || Crawled Pages: 280 || Schools Found: 2793
-GSScraper:INFO - Queued Pages: 641 || Crawled Pages: 281 || Schools Found: 2803
-GSScraper:INFO - Queued Pages: 640 || Crawled Pages: 282 || Schools Found: 2813
-GSScraper:INFO - Queued Pages: 639 || Crawled Pages: 283 || Schools Found: 2823
-GSScraper:INFO - Queued Pages: 638 || Crawled Pages: 284 || Schools Found: 2833
-GSScraper:INFO - Queued Pages: 637 || Crawled Pages: 285 || Schools Found: 2843
-GSScraper:INFO - Queued Pages: 636 || Crawled Pages: 286 || Schools Found: 2853
-GSScraper:INFO - Queued Pages: 635 || Crawled Pages: 287 || Schools Found: 2863
-GSScraper:INFO - Queued Pages: 634 || Crawled Pages: 288 || Schools Found: 2873
-GSScraper:INFO - Queued Pages: 633 || Crawled Pages: 289 || Schools Found: 2884
-GSScraper:INFO - Queued Pages: 632 || Crawled Pages: 290 || Schools Found: 2892
-GSScraper:INFO - Queued Pages: 631 || Crawled Pages: 291 || Schools Found: 2902
-GSScraper:INFO - Queued Pages: 630 || Crawled Pages: 292 || Schools Found: 2914
-GSScraper:INFO - Queued Pages: 629 || Crawled Pages: 293 || Schools Found: 2922
-GSScraper:INFO - Queued Pages: 628 || Crawled Pages: 294 || Schools Found: 2932
-GSScraper:INFO - Queued Pages: 627 || Crawled Pages: 295 || Schools Found: 2942
-GSScraper:INFO - Queued Pages: 626 || Crawled Pages: 296 || Schools Found: 2952
-GSScraper:INFO - Queued Pages: 625 || Crawled Pages: 297 || Schools Found: 2962
-GSScraper:INFO - Queued Pages: 624 || Crawled Pages: 298 || Schools Found: 2972
-GSScraper:INFO - Queued Pages: 623 || Crawled Pages: 299 || Schools Found: 2982
-GSScraper:INFO - Queued Pages: 622 || Crawled Pages: 300 || Schools Found: 2992
-GSScraper:INFO - Queued Pages: 621 || Crawled Pages: 301 || Schools Found: 3002
-GSScraper:INFO - Queued Pages: 620 || Crawled Pages: 302 || Schools Found: 3012
-GSScraper:INFO - Queued Pages: 619 || Crawled Pages: 303 || Schools Found: 3022
-GSScraper:INFO - Queued Pages: 618 || Crawled Pages: 304 || Schools Found: 3032
-GSScraper:INFO - Queued Pages: 617 || Crawled Pages: 305 || Schools Found: 3042
-GSScraper:INFO - Queued Pages: 616 || Crawled Pages: 306 || Schools Found: 3052
-GSScraper:INFO - Queued Pages: 615 || Crawled Pages: 307 || Schools Found: 3062
-GSScraper:INFO - Queued Pages: 614 || Crawled Pages: 308 || Schools Found: 3072
-GSScraper:INFO - Queued Pages: 613 || Crawled Pages: 309 || Schools Found: 3082
-GSScraper:INFO - Queued Pages: 612 || Crawled Pages: 310 || Schools Found: 3092
-GSScraper:INFO - Queued Pages: 611 || Crawled Pages: 311 || Schools Found: 3102
-GSScraper:INFO - Queued Pages: 610 || Crawled Pages: 312 || Schools Found: 3112
-GSScraper:INFO - Queued Pages: 609 || Crawled Pages: 313 || Schools Found: 3122
-GSScraper:INFO - Queued Pages: 608 || Crawled Pages: 314 || Schools Found: 3132
-GSScraper:INFO - Queued Pages: 607 || Crawled Pages: 315 || Schools Found: 3142
-GSScraper:INFO - Queued Pages: 606 || Crawled Pages: 316 || Schools Found: 3152
-GSScraper:INFO - Queued Pages: 605 || Crawled Pages: 317 || Schools Found: 3163
-GSScraper:INFO - Queued Pages: 604 || Crawled Pages: 318 || Schools Found: 3172
-GSScraper:INFO - Queued Pages: 603 || Crawled Pages: 319 || Schools Found: 3182
-GSScraper:INFO - Queued Pages: 602 || Crawled Pages: 320 || Schools Found: 3192
-GSScraper:INFO - Queued Pages: 601 || Crawled Pages: 321 || Schools Found: 3202
-GSScraper:INFO - Queued Pages: 600 || Crawled Pages: 322 || Schools Found: 3212
-GSScraper:INFO - Queued Pages: 599 || Crawled Pages: 323 || Schools Found: 3222
-GSScraper:INFO - Queued Pages: 598 || Crawled Pages: 324 || Schools Found: 3232
-GSScraper:INFO - Queued Pages: 597 || Crawled Pages: 325 || Schools Found: 3242
-GSScraper:INFO - Queued Pages: 596 || Crawled Pages: 326 || Schools Found: 3252
-GSScraper:INFO - Queued Pages: 595 || Crawled Pages: 327 || Schools Found: 3262
-GSScraper:INFO - Queued Pages: 594 || Crawled Pages: 328 || Schools Found: 3272
-GSScraper:INFO - Queued Pages: 593 || Crawled Pages: 329 || Schools Found: 3282
-GSScraper:INFO - Queued Pages: 592 || Crawled Pages: 330 || Schools Found: 3292
-GSScraper:INFO - Queued Pages: 591 || Crawled Pages: 331 || Schools Found: 3302
-GSScraper:INFO - Queued Pages: 590 || Crawled Pages: 332 || Schools Found: 3312
-GSScraper:INFO - Queued Pages: 589 || Crawled Pages: 333 || Schools Found: 3322
-GSScraper:INFO - Queued Pages: 588 || Crawled Pages: 334 || Schools Found: 3332
-GSScraper:INFO - Queued Pages: 587 || Crawled Pages: 335 || Schools Found: 3342
-GSScraper:INFO - Queued Pages: 586 || Crawled Pages: 336 || Schools Found: 3352
-GSScraper:INFO - Queued Pages: 585 || Crawled Pages: 337 || Schools Found: 3362
-GSScraper:INFO - Queued Pages: 584 || Crawled Pages: 338 || Schools Found: 3372
-GSScraper:INFO - Queued Pages: 583 || Crawled Pages: 339 || Schools Found: 3382
-GSScraper:INFO - Queued Pages: 582 || Crawled Pages: 340 || Schools Found: 3391
-GSScraper:INFO - Queued Pages: 581 || Crawled Pages: 341 || Schools Found: 3401
-GSScraper:INFO - Queued Pages: 580 || Crawled Pages: 342 || Schools Found: 3411
-GSScraper:INFO - Queued Pages: 579 || Crawled Pages: 343 || Schools Found: 3421
-GSScraper:INFO - Queued Pages: 578 || Crawled Pages: 344 || Schools Found: 3431
-GSScraper:INFO - Queued Pages: 577 || Crawled Pages: 345 || Schools Found: 3441
-GSScraper:INFO - Queued Pages: 576 || Crawled Pages: 346 || Schools Found: 3451
-GSScraper:INFO - Queued Pages: 575 || Crawled Pages: 347 || Schools Found: 3463
-GSScraper:INFO - Queued Pages: 574 || Crawled Pages: 348 || Schools Found: 3471
-GSScraper:INFO - Queued Pages: 573 || Crawled Pages: 349 || Schools Found: 3480
-GSScraper:INFO - Queued Pages: 572 || Crawled Pages: 350 || Schools Found: 3490
-GSScraper:INFO - Queued Pages: 571 || Crawled Pages: 351 || Schools Found: 3504
-GSScraper:INFO - Queued Pages: 570 || Crawled Pages: 352 || Schools Found: 3510
-GSScraper:INFO - Queued Pages: 569 || Crawled Pages: 353 || Schools Found: 3519
-GSScraper:INFO - Queued Pages: 568 || Crawled Pages: 354 || Schools Found: 3529
-GSScraper:INFO - Queued Pages: 567 || Crawled Pages: 355 || Schools Found: 3539
-GSScraper:INFO - Queued Pages: 566 || Crawled Pages: 356 || Schools Found: 3549
-GSScraper:INFO - Queued Pages: 565 || Crawled Pages: 357 || Schools Found: 3559
-GSScraper:INFO - Queued Pages: 564 || Crawled Pages: 358 || Schools Found: 3569
-GSScraper:INFO - Queued Pages: 563 || Crawled Pages: 359 || Schools Found: 3579
-GSScraper:INFO - Queued Pages: 562 || Crawled Pages: 360 || Schools Found: 3589
-GSScraper:INFO - Queued Pages: 561 || Crawled Pages: 361 || Schools Found: 3599
-GSScraper:INFO - Queued Pages: 560 || Crawled Pages: 362 || Schools Found: 3609
-GSScraper:INFO - Queued Pages: 559 || Crawled Pages: 363 || Schools Found: 3619
-GSScraper:INFO - Queued Pages: 558 || Crawled Pages: 364 || Schools Found: 3629
-GSScraper:INFO - Queued Pages: 557 || Crawled Pages: 365 || Schools Found: 3642
-GSScraper:INFO - Queued Pages: 556 || Crawled Pages: 366 || Schools Found: 3649
-GSScraper:INFO - Queued Pages: 555 || Crawled Pages: 367 || Schools Found: 3659
-GSScraper:INFO - Queued Pages: 554 || Crawled Pages: 368 || Schools Found: 3669
-GSScraper:INFO - Queued Pages: 553 || Crawled Pages: 369 || Schools Found: 3679
-GSScraper:INFO - Queued Pages: 552 || Crawled Pages: 370 || Schools Found: 3689
-GSScraper:INFO - Queued Pages: 551 || Crawled Pages: 371 || Schools Found: 3699
-GSScraper:INFO - Queued Pages: 550 || Crawled Pages: 372 || Schools Found: 3708
-GSScraper:INFO - Queued Pages: 549 || Crawled Pages: 373 || Schools Found: 3722
-GSScraper:INFO - Queued Pages: 548 || Crawled Pages: 374 || Schools Found: 3728
-GSScraper:INFO - Queued Pages: 547 || Crawled Pages: 375 || Schools Found: 3738
-GSScraper:INFO - Queued Pages: 546 || Crawled Pages: 376 || Schools Found: 3748
-GSScraper:INFO - Queued Pages: 545 || Crawled Pages: 377 || Schools Found: 3758
-GSScraper:INFO - Queued Pages: 544 || Crawled Pages: 378 || Schools Found: 3768
-GSScraper:INFO - Queued Pages: 543 || Crawled Pages: 379 || Schools Found: 3778
-GSScraper:INFO - Queued Pages: 542 || Crawled Pages: 380 || Schools Found: 3788
-GSScraper:INFO - Queued Pages: 541 || Crawled Pages: 381 || Schools Found: 3798
-GSScraper:INFO - Queued Pages: 540 || Crawled Pages: 382 || Schools Found: 3816
-GSScraper:INFO - Queued Pages: 539 || Crawled Pages: 383 || Schools Found: 3818
-GSScraper:INFO - Queued Pages: 538 || Crawled Pages: 384 || Schools Found: 3828
-GSScraper:INFO - Queued Pages: 537 || Crawled Pages: 385 || Schools Found: 3838
-GSScraper:INFO - Queued Pages: 536 || Crawled Pages: 386 || Schools Found: 3848
-GSScraper:INFO - Queued Pages: 535 || Crawled Pages: 387 || Schools Found: 3858
-GSScraper:INFO - Queued Pages: 534 || Crawled Pages: 388 || Schools Found: 3868
-GSScraper:INFO - Queued Pages: 533 || Crawled Pages: 389 || Schools Found: 3878
-GSScraper:INFO - Queued Pages: 532 || Crawled Pages: 390 || Schools Found: 3888
-GSScraper:INFO - Queued Pages: 531 || Crawled Pages: 391 || Schools Found: 3898
-GSScraper:INFO - Queued Pages: 530 || Crawled Pages: 392 || Schools Found: 3908
-GSScraper:INFO - Queued Pages: 529 || Crawled Pages: 393 || Schools Found: 3917
-GSScraper:INFO - Queued Pages: 528 || Crawled Pages: 394 || Schools Found: 3927
-GSScraper:INFO - Queued Pages: 527 || Crawled Pages: 395 || Schools Found: 3937
-GSScraper:INFO - Queued Pages: 526 || Crawled Pages: 396 || Schools Found: 3947
-GSScraper:INFO - Queued Pages: 525 || Crawled Pages: 397 || Schools Found: 3957
-GSScraper:INFO - Queued Pages: 524 || Crawled Pages: 398 || Schools Found: 3972
-GSScraper:INFO - Queued Pages: 523 || Crawled Pages: 399 || Schools Found: 3977
-GSScraper:INFO - Queued Pages: 522 || Crawled Pages: 400 || Schools Found: 3987
-GSScraper:INFO - Queued Pages: 521 || Crawled Pages: 401 || Schools Found: 3996
-GSScraper:INFO - Queued Pages: 520 || Crawled Pages: 402 || Schools Found: 4006
-GSScraper:INFO - Queued Pages: 519 || Crawled Pages: 403 || Schools Found: 4016
-GSScraper:INFO - Queued Pages: 518 || Crawled Pages: 404 || Schools Found: 4026
-GSScraper:INFO - Queued Pages: 517 || Crawled Pages: 405 || Schools Found: 4036
-GSScraper:INFO - Queued Pages: 516 || Crawled Pages: 406 || Schools Found: 4046
-GSScraper:INFO - Queued Pages: 515 || Crawled Pages: 407 || Schools Found: 4056
-GSScraper:INFO - Queued Pages: 514 || Crawled Pages: 408 || Schools Found: 4066
-GSScraper:INFO - Queued Pages: 513 || Crawled Pages: 409 || Schools Found: 4076
-GSScraper:INFO - Queued Pages: 512 || Crawled Pages: 410 || Schools Found: 4086
-GSScraper:INFO - Queued Pages: 511 || Crawled Pages: 411 || Schools Found: 4096
-GSScraper:INFO - Queued Pages: 510 || Crawled Pages: 412 || Schools Found: 4106
-GSScraper:INFO - Queued Pages: 509 || Crawled Pages: 413 || Schools Found: 4116
-GSScraper:INFO - Queued Pages: 508 || Crawled Pages: 414 || Schools Found: 4126
-GSScraper:INFO - Queued Pages: 507 || Crawled Pages: 415 || Schools Found: 4136
-GSScraper:INFO - Queued Pages: 506 || Crawled Pages: 416 || Schools Found: 4145
-GSScraper:INFO - Queued Pages: 505 || Crawled Pages: 417 || Schools Found: 4155
-GSScraper:INFO - Queued Pages: 504 || Crawled Pages: 418 || Schools Found: 4165
-GSScraper:INFO - Queued Pages: 503 || Crawled Pages: 419 || Schools Found: 4175
-GSScraper:INFO - Queued Pages: 502 || Crawled Pages: 420 || Schools Found: 4185
-GSScraper:INFO - Queued Pages: 501 || Crawled Pages: 421 || Schools Found: 4195
-GSScraper:INFO - Queued Pages: 500 || Crawled Pages: 422 || Schools Found: 4205
-GSScraper:INFO - Queued Pages: 499 || Crawled Pages: 423 || Schools Found: 4215
-GSScraper:INFO - Queued Pages: 498 || Crawled Pages: 424 || Schools Found: 4224
-GSScraper:INFO - Queued Pages: 497 || Crawled Pages: 425 || Schools Found: 4234
-GSScraper:INFO - Queued Pages: 496 || Crawled Pages: 426 || Schools Found: 4244
-GSScraper:INFO - Queued Pages: 495 || Crawled Pages: 427 || Schools Found: 4254
-GSScraper:INFO - Queued Pages: 494 || Crawled Pages: 428 || Schools Found: 4264
-GSScraper:INFO - Queued Pages: 493 || Crawled Pages: 429 || Schools Found: 4274
-GSScraper:INFO - Queued Pages: 492 || Crawled Pages: 430 || Schools Found: 4284
-GSScraper:INFO - Queued Pages: 491 || Crawled Pages: 431 || Schools Found: 4294
-GSScraper:INFO - Queued Pages: 490 || Crawled Pages: 432 || Schools Found: 4304
-GSScraper:INFO - Queued Pages: 489 || Crawled Pages: 433 || Schools Found: 4314
-GSScraper:INFO - Queued Pages: 488 || Crawled Pages: 434 || Schools Found: 4324
-GSScraper:INFO - Queued Pages: 487 || Crawled Pages: 435 || Schools Found: 4334
-GSScraper:INFO - Queued Pages: 486 || Crawled Pages: 436 || Schools Found: 4344
-GSScraper:INFO - Queued Pages: 485 || Crawled Pages: 437 || Schools Found: 4354
-GSScraper:INFO - Queued Pages: 484 || Crawled Pages: 438 || Schools Found: 4364
-GSScraper:INFO - Queued Pages: 483 || Crawled Pages: 439 || Schools Found: 4374
-GSScraper:INFO - Queued Pages: 482 || Crawled Pages: 440 || Schools Found: 4384
-GSScraper:INFO - Queued Pages: 481 || Crawled Pages: 441 || Schools Found: 4394
-GSScraper:INFO - Queued Pages: 480 || Crawled Pages: 442 || Schools Found: 4407
-GSScraper:INFO - Queued Pages: 479 || Crawled Pages: 443 || Schools Found: 4414
-GSScraper:INFO - Queued Pages: 478 || Crawled Pages: 444 || Schools Found: 4424
-GSScraper:INFO - Queued Pages: 477 || Crawled Pages: 445 || Schools Found: 4434
-GSScraper:INFO - Queued Pages: 476 || Crawled Pages: 446 || Schools Found: 4443
-GSScraper:INFO - Queued Pages: 475 || Crawled Pages: 447 || Schools Found: 4453
-GSScraper:INFO - Queued Pages: 474 || Crawled Pages: 448 || Schools Found: 4463
-GSScraper:INFO - Queued Pages: 473 || Crawled Pages: 449 || Schools Found: 4473
-GSScraper:INFO - Queued Pages: 472 || Crawled Pages: 450 || Schools Found: 4483
-GSScraper:INFO - Queued Pages: 471 || Crawled Pages: 451 || Schools Found: 4493
-GSScraper:INFO - Queued Pages: 470 || Crawled Pages: 452 || Schools Found: 4512
-GSScraper:INFO - Queued Pages: 469 || Crawled Pages: 453 || Schools Found: 4513
-GSScraper:INFO - Queued Pages: 468 || Crawled Pages: 454 || Schools Found: 4523
-GSScraper:INFO - Queued Pages: 467 || Crawled Pages: 455 || Schools Found: 4533
-GSScraper:INFO - Queued Pages: 466 || Crawled Pages: 456 || Schools Found: 4543
-GSScraper:INFO - Queued Pages: 465 || Crawled Pages: 457 || Schools Found: 4553
-GSScraper:INFO - Queued Pages: 464 || Crawled Pages: 458 || Schools Found: 4563
-GSScraper:INFO - Queued Pages: 463 || Crawled Pages: 459 || Schools Found: 4573
-GSScraper:INFO - Queued Pages: 462 || Crawled Pages: 460 || Schools Found: 4582
-GSScraper:INFO - Queued Pages: 461 || Crawled Pages: 461 || Schools Found: 4592
-GSScraper:INFO - Queued Pages: 460 || Crawled Pages: 462 || Schools Found: 4602
-GSScraper:INFO - Queued Pages: 459 || Crawled Pages: 463 || Schools Found: 4612
-GSScraper:INFO - Queued Pages: 458 || Crawled Pages: 464 || Schools Found: 4622
-GSScraper:INFO - Queued Pages: 457 || Crawled Pages: 465 || Schools Found: 4632
-GSScraper:INFO - Queued Pages: 456 || Crawled Pages: 466 || Schools Found: 4642
-GSScraper:INFO - Queued Pages: 455 || Crawled Pages: 467 || Schools Found: 4656
-GSScraper:INFO - Queued Pages: 454 || Crawled Pages: 468 || Schools Found: 4662
-GSScraper:INFO - Queued Pages: 453 || Crawled Pages: 469 || Schools Found: 4672
-GSScraper:INFO - Queued Pages: 452 || Crawled Pages: 470 || Schools Found: 4682
-GSScraper:INFO - Queued Pages: 451 || Crawled Pages: 471 || Schools Found: 4692
-GSScraper:INFO - Queued Pages: 450 || Crawled Pages: 472 || Schools Found: 4702
-GSScraper:INFO - Queued Pages: 449 || Crawled Pages: 473 || Schools Found: 4712
-GSScraper:INFO - Queued Pages: 448 || Crawled Pages: 474 || Schools Found: 4722
-GSScraper:INFO - Queued Pages: 447 || Crawled Pages: 475 || Schools Found: 4732
-GSScraper:INFO - Queued Pages: 446 || Crawled Pages: 476 || Schools Found: 4742
-GSScraper:INFO - Queued Pages: 445 || Crawled Pages: 477 || Schools Found: 4752
-GSScraper:INFO - Queued Pages: 444 || Crawled Pages: 478 || Schools Found: 4762
-GSScraper:INFO - Queued Pages: 443 || Crawled Pages: 479 || Schools Found: 4772
-GSScraper:INFO - Queued Pages: 442 || Crawled Pages: 480 || Schools Found: 4782
-GSScraper:INFO - Queued Pages: 441 || Crawled Pages: 481 || Schools Found: 4792
-GSScraper:INFO - Queued Pages: 440 || Crawled Pages: 482 || Schools Found: 4802
-GSScraper:INFO - Queued Pages: 439 || Crawled Pages: 483 || Schools Found: 4812
-GSScraper:INFO - Queued Pages: 438 || Crawled Pages: 484 || Schools Found: 4822
-GSScraper:INFO - Queued Pages: 437 || Crawled Pages: 485 || Schools Found: 4831
-GSScraper:INFO - Queued Pages: 436 || Crawled Pages: 486 || Schools Found: 4841
-GSScraper:INFO - Queued Pages: 435 || Crawled Pages: 487 || Schools Found: 4851
-GSScraper:INFO - Queued Pages: 434 || Crawled Pages: 488 || Schools Found: 4861
-GSScraper:INFO - Queued Pages: 433 || Crawled Pages: 489 || Schools Found: 4871
-GSScraper:INFO - Queued Pages: 432 || Crawled Pages: 490 || Schools Found: 4881
-GSScraper:INFO - Queued Pages: 431 || Crawled Pages: 491 || Schools Found: 4891
-GSScraper:INFO - Queued Pages: 430 || Crawled Pages: 492 || Schools Found: 4901
-GSScraper:INFO - Queued Pages: 429 || Crawled Pages: 493 || Schools Found: 4911
-GSScraper:INFO - Queued Pages: 428 || Crawled Pages: 494 || Schools Found: 4921
-GSScraper:INFO - Queued Pages: 427 || Crawled Pages: 495 || Schools Found: 4931
-GSScraper:INFO - Queued Pages: 426 || Crawled Pages: 496 || Schools Found: 4941
-GSScraper:INFO - Queued Pages: 425 || Crawled Pages: 497 || Schools Found: 4951
-GSScraper:INFO - Queued Pages: 424 || Crawled Pages: 498 || Schools Found: 4961
-GSScraper:INFO - Queued Pages: 423 || Crawled Pages: 499 || Schools Found: 4971
-GSScraper:INFO - Queued Pages: 422 || Crawled Pages: 500 || Schools Found: 4981
-GSScraper:INFO - Queued Pages: 421 || Crawled Pages: 501 || Schools Found: 4991
-GSScraper:INFO - Queued Pages: 420 || Crawled Pages: 502 || Schools Found: 5001
-GSScraper:INFO - Queued Pages: 419 || Crawled Pages: 503 || Schools Found: 5011
-GSScraper:INFO - Queued Pages: 418 || Crawled Pages: 504 || Schools Found: 5021
-GSScraper:INFO - Queued Pages: 417 || Crawled Pages: 505 || Schools Found: 5031
-GSScraper:INFO - Queued Pages: 416 || Crawled Pages: 506 || Schools Found: 5041
-GSScraper:INFO - Queued Pages: 415 || Crawled Pages: 507 || Schools Found: 5051
-GSScraper:INFO - Queued Pages: 414 || Crawled Pages: 508 || Schools Found: 5061
-GSScraper:INFO - Queued Pages: 413 || Crawled Pages: 509 || Schools Found: 5071
-GSScraper:INFO - Queued Pages: 412 || Crawled Pages: 510 || Schools Found: 5081
-GSScraper:INFO - Queued Pages: 411 || Crawled Pages: 511 || Schools Found: 5091
-GSScraper:INFO - Queued Pages: 410 || Crawled Pages: 512 || Schools Found: 5101
-GSScraper:INFO - Queued Pages: 409 || Crawled Pages: 513 || Schools Found: 5111
-GSScraper:INFO - Queued Pages: 408 || Crawled Pages: 514 || Schools Found: 5120
-GSScraper:INFO - Queued Pages: 407 || Crawled Pages: 515 || Schools Found: 5130
-GSScraper:INFO - Queued Pages: 406 || Crawled Pages: 516 || Schools Found: 5140
-GSScraper:INFO - Queued Pages: 405 || Crawled Pages: 517 || Schools Found: 5150
-GSScraper:INFO - Queued Pages: 404 || Crawled Pages: 518 || Schools Found: 5160
-GSScraper:INFO - Queued Pages: 403 || Crawled Pages: 519 || Schools Found: 5170
-GSScraper:INFO - Queued Pages: 402 || Crawled Pages: 520 || Schools Found: 5180
-GSScraper:INFO - Queued Pages: 401 || Crawled Pages: 521 || Schools Found: 5193
-GSScraper:INFO - Queued Pages: 400 || Crawled Pages: 522 || Schools Found: 5199
-GSScraper:INFO - Queued Pages: 399 || Crawled Pages: 523 || Schools Found: 5209
-GSScraper:INFO - Queued Pages: 398 || Crawled Pages: 524 || Schools Found: 5219
-GSScraper:INFO - Queued Pages: 397 || Crawled Pages: 525 || Schools Found: 5229
-GSScraper:INFO - Queued Pages: 396 || Crawled Pages: 526 || Schools Found: 5239
-GSScraper:INFO - Queued Pages: 395 || Crawled Pages: 527 || Schools Found: 5249
-GSScraper:INFO - Queued Pages: 394 || Crawled Pages: 528 || Schools Found: 5259
-GSScraper:INFO - Queued Pages: 393 || Crawled Pages: 529 || Schools Found: 5269
-GSScraper:INFO - Queued Pages: 392 || Crawled Pages: 530 || Schools Found: 5278
-GSScraper:INFO - Queued Pages: 391 || Crawled Pages: 531 || Schools Found: 5288
-GSScraper:INFO - Queued Pages: 390 || Crawled Pages: 532 || Schools Found: 5298
-GSScraper:INFO - Queued Pages: 389 || Crawled Pages: 533 || Schools Found: 5315
-GSScraper:INFO - Queued Pages: 388 || Crawled Pages: 534 || Schools Found: 5318
-GSScraper:INFO - Queued Pages: 387 || Crawled Pages: 535 || Schools Found: 5328
-GSScraper:INFO - Queued Pages: 386 || Crawled Pages: 536 || Schools Found: 5337
-GSScraper:INFO - Queued Pages: 385 || Crawled Pages: 537 || Schools Found: 5347
-GSScraper:INFO - Queued Pages: 384 || Crawled Pages: 538 || Schools Found: 5357
-GSScraper:INFO - Queued Pages: 383 || Crawled Pages: 539 || Schools Found: 5367
-GSScraper:INFO - Queued Pages: 382 || Crawled Pages: 540 || Schools Found: 5377
-GSScraper:INFO - Queued Pages: 381 || Crawled Pages: 541 || Schools Found: 5387
-GSScraper:INFO - Queued Pages: 380 || Crawled Pages: 542 || Schools Found: 5397
-GSScraper:INFO - Queued Pages: 379 || Crawled Pages: 543 || Schools Found: 5407
-GSScraper:INFO - Queued Pages: 378 || Crawled Pages: 544 || Schools Found: 5417
-GSScraper:INFO - Queued Pages: 377 || Crawled Pages: 545 || Schools Found: 5427
-GSScraper:INFO - Queued Pages: 376 || Crawled Pages: 546 || Schools Found: 5437
-GSScraper:INFO - Queued Pages: 375 || Crawled Pages: 547 || Schools Found: 5447
-GSScraper:INFO - Queued Pages: 374 || Crawled Pages: 548 || Schools Found: 5457
-GSScraper:INFO - Queued Pages: 373 || Crawled Pages: 549 || Schools Found: 5467
-GSScraper:INFO - Queued Pages: 372 || Crawled Pages: 550 || Schools Found: 5477
-GSScraper:INFO - Queued Pages: 371 || Crawled Pages: 551 || Schools Found: 5487
-GSScraper:INFO - Queued Pages: 370 || Crawled Pages: 552 || Schools Found: 5502
-GSScraper:INFO - Queued Pages: 369 || Crawled Pages: 553 || Schools Found: 5507
-GSScraper:INFO - Queued Pages: 368 || Crawled Pages: 554 || Schools Found: 5517
-GSScraper:INFO - Queued Pages: 367 || Crawled Pages: 555 || Schools Found: 5527
-GSScraper:INFO - Queued Pages: 366 || Crawled Pages: 556 || Schools Found: 5537
-GSScraper:INFO - Queued Pages: 365 || Crawled Pages: 557 || Schools Found: 5547
-GSScraper:INFO - Queued Pages: 364 || Crawled Pages: 558 || Schools Found: 5557
-GSScraper:INFO - Queued Pages: 363 || Crawled Pages: 559 || Schools Found: 5567
-GSScraper:INFO - Queued Pages: 362 || Crawled Pages: 560 || Schools Found: 5577
-GSScraper:INFO - Queued Pages: 361 || Crawled Pages: 561 || Schools Found: 5587
-GSScraper:INFO - Queued Pages: 360 || Crawled Pages: 562 || Schools Found: 5597
-GSScraper:INFO - Queued Pages: 359 || Crawled Pages: 563 || Schools Found: 5607
-GSScraper:INFO - Queued Pages: 358 || Crawled Pages: 564 || Schools Found: 5617
-GSScraper:INFO - Queued Pages: 357 || Crawled Pages: 565 || Schools Found: 5627
-GSScraper:INFO - Queued Pages: 356 || Crawled Pages: 566 || Schools Found: 5637
-GSScraper:INFO - Queued Pages: 355 || Crawled Pages: 567 || Schools Found: 5647
-GSScraper:INFO - Queued Pages: 354 || Crawled Pages: 568 || Schools Found: 5657
-GSScraper:INFO - Queued Pages: 353 || Crawled Pages: 569 || Schools Found: 5667
-GSScraper:INFO - Queued Pages: 352 || Crawled Pages: 570 || Schools Found: 5677
-GSScraper:INFO - Queued Pages: 351 || Crawled Pages: 571 || Schools Found: 5687
-GSScraper:INFO - Queued Pages: 350 || Crawled Pages: 572 || Schools Found: 5697
-GSScraper:INFO - Queued Pages: 349 || Crawled Pages: 573 || Schools Found: 5711
-GSScraper:INFO - Queued Pages: 348 || Crawled Pages: 574 || Schools Found: 5717
-GSScraper:INFO - Queued Pages: 347 || Crawled Pages: 575 || Schools Found: 5727
-GSScraper:INFO - Queued Pages: 346 || Crawled Pages: 576 || Schools Found: 5737
-GSScraper:INFO - Queued Pages: 345 || Crawled Pages: 577 || Schools Found: 5747
-GSScraper:INFO - Queued Pages: 344 || Crawled Pages: 578 || Schools Found: 5757
-GSScraper:INFO - Queued Pages: 343 || Crawled Pages: 579 || Schools Found: 5767
-GSScraper:INFO - Queued Pages: 342 || Crawled Pages: 580 || Schools Found: 5777
-GSScraper:INFO - Queued Pages: 341 || Crawled Pages: 581 || Schools Found: 5787
-GSScraper:INFO - Queued Pages: 340 || Crawled Pages: 582 || Schools Found: 5797
-GSScraper:INFO - Queued Pages: 339 || Crawled Pages: 583 || Schools Found: 5807
-GSScraper:INFO - Queued Pages: 338 || Crawled Pages: 584 || Schools Found: 5817
-GSScraper:INFO - Queued Pages: 337 || Crawled Pages: 585 || Schools Found: 5827
-GSScraper:INFO - Queued Pages: 336 || Crawled Pages: 586 || Schools Found: 5837
-GSScraper:INFO - Queued Pages: 335 || Crawled Pages: 587 || Schools Found: 5847
-GSScraper:INFO - Queued Pages: 334 || Crawled Pages: 588 || Schools Found: 5857
-GSScraper:INFO - Queued Pages: 333 || Crawled Pages: 589 || Schools Found: 5867
-GSScraper:INFO - Queued Pages: 332 || Crawled Pages: 590 || Schools Found: 5877
-GSScraper:INFO - Queued Pages: 331 || Crawled Pages: 591 || Schools Found: 5887
-GSScraper:INFO - Queued Pages: 330 || Crawled Pages: 592 || Schools Found: 5897
-GSScraper:INFO - Queued Pages: 329 || Crawled Pages: 593 || Schools Found: 5907
-GSScraper:INFO - Queued Pages: 328 || Crawled Pages: 594 || Schools Found: 5917
-GSScraper:INFO - Queued Pages: 326 || Crawled Pages: 596 || Schools Found: 5937
-GSScraper:INFO - Queued Pages: 327 || Crawled Pages: 595 || Schools Found: 5935
-GSScraper:INFO - Queued Pages: 325 || Crawled Pages: 597 || Schools Found: 5947
-GSScraper:INFO - Queued Pages: 324 || Crawled Pages: 598 || Schools Found: 5957
-GSScraper:INFO - Queued Pages: 323 || Crawled Pages: 599 || Schools Found: 5967
-GSScraper:INFO - Queued Pages: 322 || Crawled Pages: 600 || Schools Found: 5977
-GSScraper:INFO - Queued Pages: 321 || Crawled Pages: 601 || Schools Found: 5986
-GSScraper:INFO - Queued Pages: 320 || Crawled Pages: 602 || Schools Found: 5996
-GSScraper:INFO - Queued Pages: 319 || Crawled Pages: 603 || Schools Found: 6006
-GSScraper:INFO - Queued Pages: 318 || Crawled Pages: 604 || Schools Found: 6016
-GSScraper:INFO - Queued Pages: 317 || Crawled Pages: 605 || Schools Found: 6026
-GSScraper:INFO - Queued Pages: 316 || Crawled Pages: 606 || Schools Found: 6037
-GSScraper:INFO - Queued Pages: 315 || Crawled Pages: 607 || Schools Found: 6046
-GSScraper:INFO - Queued Pages: 314 || Crawled Pages: 608 || Schools Found: 6056
-GSScraper:INFO - Queued Pages: 313 || Crawled Pages: 609 || Schools Found: 6066
-GSScraper:INFO - Queued Pages: 312 || Crawled Pages: 610 || Schools Found: 6076
-GSScraper:INFO - Queued Pages: 311 || Crawled Pages: 611 || Schools Found: 6086
-GSScraper:INFO - Queued Pages: 310 || Crawled Pages: 612 || Schools Found: 6096
-GSScraper:INFO - Queued Pages: 309 || Crawled Pages: 613 || Schools Found: 6106
-GSScraper:INFO - Queued Pages: 308 || Crawled Pages: 614 || Schools Found: 6116
-GSScraper:INFO - Queued Pages: 307 || Crawled Pages: 615 || Schools Found: 6125
-GSScraper:INFO - Queued Pages: 306 || Crawled Pages: 616 || Schools Found: 6135
-GSScraper:INFO - Queued Pages: 305 || Crawled Pages: 617 || Schools Found: 6145
-GSScraper:INFO - Queued Pages: 304 || Crawled Pages: 618 || Schools Found: 6155
-GSScraper:INFO - Queued Pages: 303 || Crawled Pages: 619 || Schools Found: 6165
-GSScraper:INFO - Queued Pages: 302 || Crawled Pages: 620 || Schools Found: 6175
-GSScraper:INFO - Queued Pages: 301 || Crawled Pages: 621 || Schools Found: 6185
-GSScraper:INFO - Queued Pages: 300 || Crawled Pages: 622 || Schools Found: 6195
-GSScraper:INFO - Queued Pages: 299 || Crawled Pages: 623 || Schools Found: 6208
-GSScraper:INFO - Queued Pages: 298 || Crawled Pages: 624 || Schools Found: 6215
-GSScraper:INFO - Queued Pages: 297 || Crawled Pages: 625 || Schools Found: 6225
-GSScraper:INFO - Queued Pages: 296 || Crawled Pages: 626 || Schools Found: 6235
-GSScraper:INFO - Queued Pages: 295 || Crawled Pages: 627 || Schools Found: 6245
-GSScraper:INFO - Queued Pages: 294 || Crawled Pages: 628 || Schools Found: 6255
-GSScraper:INFO - Queued Pages: 293 || Crawled Pages: 629 || Schools Found: 6265
-GSScraper:INFO - Queued Pages: 292 || Crawled Pages: 630 || Schools Found: 6275
-GSScraper:INFO - Queued Pages: 291 || Crawled Pages: 631 || Schools Found: 6285
-GSScraper:INFO - Queued Pages: 290 || Crawled Pages: 632 || Schools Found: 6295
-GSScraper:INFO - Queued Pages: 289 || Crawled Pages: 633 || Schools Found: 6305
-GSScraper:INFO - Queued Pages: 288 || Crawled Pages: 634 || Schools Found: 6315
-GSScraper:INFO - Queued Pages: 287 || Crawled Pages: 635 || Schools Found: 6325
-GSScraper:INFO - Queued Pages: 286 || Crawled Pages: 636 || Schools Found: 6335
-GSScraper:INFO - Queued Pages: 285 || Crawled Pages: 637 || Schools Found: 6345
-GSScraper:INFO - Queued Pages: 284 || Crawled Pages: 638 || Schools Found: 6355
-GSScraper:INFO - Queued Pages: 283 || Crawled Pages: 639 || Schools Found: 6367
-GSScraper:INFO - Queued Pages: 282 || Crawled Pages: 640 || Schools Found: 6375
-GSScraper:INFO - Queued Pages: 281 || Crawled Pages: 641 || Schools Found: 6385
-GSScraper:INFO - Queued Pages: 280 || Crawled Pages: 642 || Schools Found: 6395
-GSScraper:INFO - Queued Pages: 279 || Crawled Pages: 643 || Schools Found: 6405
-GSScraper:INFO - Queued Pages: 278 || Crawled Pages: 644 || Schools Found: 6415
-GSScraper:INFO - Queued Pages: 277 || Crawled Pages: 645 || Schools Found: 6425
-GSScraper:INFO - Queued Pages: 276 || Crawled Pages: 646 || Schools Found: 6435
-GSScraper:INFO - Queued Pages: 275 || Crawled Pages: 647 || Schools Found: 6451
-GSScraper:INFO - Queued Pages: 274 || Crawled Pages: 648 || Schools Found: 6455
-GSScraper:INFO - Queued Pages: 273 || Crawled Pages: 649 || Schools Found: 6465
-GSScraper:INFO - Queued Pages: 272 || Crawled Pages: 650 || Schools Found: 6475
-GSScraper:INFO - Queued Pages: 271 || Crawled Pages: 651 || Schools Found: 6485
-GSScraper:INFO - Queued Pages: 270 || Crawled Pages: 652 || Schools Found: 6499
-GSScraper:INFO - Queued Pages: 269 || Crawled Pages: 653 || Schools Found: 6505
-GSScraper:INFO - Queued Pages: 268 || Crawled Pages: 654 || Schools Found: 6516
-GSScraper:INFO - Queued Pages: 267 || Crawled Pages: 655 || Schools Found: 6524
-GSScraper:INFO - Queued Pages: 266 || Crawled Pages: 656 || Schools Found: 6534
-GSScraper:INFO - Queued Pages: 265 || Crawled Pages: 657 || Schools Found: 6549
-GSScraper:INFO - Queued Pages: 264 || Crawled Pages: 658 || Schools Found: 6554
-GSScraper:INFO - Queued Pages: 263 || Crawled Pages: 659 || Schools Found: 6564
-GSScraper:INFO - Queued Pages: 262 || Crawled Pages: 660 || Schools Found: 6574
-GSScraper:INFO - Queued Pages: 261 || Crawled Pages: 661 || Schools Found: 6584
-GSScraper:INFO - Queued Pages: 260 || Crawled Pages: 662 || Schools Found: 6594
-GSScraper:INFO - Queued Pages: 259 || Crawled Pages: 663 || Schools Found: 6604
-GSScraper:INFO - Queued Pages: 258 || Crawled Pages: 664 || Schools Found: 6622
-GSScraper:INFO - Queued Pages: 257 || Crawled Pages: 665 || Schools Found: 6624
-GSScraper:INFO - Queued Pages: 256 || Crawled Pages: 666 || Schools Found: 6634
-GSScraper:INFO - Queued Pages: 255 || Crawled Pages: 667 || Schools Found: 6644
-GSScraper:INFO - Queued Pages: 254 || Crawled Pages: 668 || Schools Found: 6654
-GSScraper:INFO - Queued Pages: 253 || Crawled Pages: 669 || Schools Found: 6664
-GSScraper:INFO - Queued Pages: 252 || Crawled Pages: 670 || Schools Found: 6674
-GSScraper:INFO - Queued Pages: 251 || Crawled Pages: 671 || Schools Found: 6684
-GSScraper:INFO - Queued Pages: 250 || Crawled Pages: 672 || Schools Found: 6695
-GSScraper:INFO - Queued Pages: 249 || Crawled Pages: 673 || Schools Found: 6704
-GSScraper:INFO - Queued Pages: 248 || Crawled Pages: 674 || Schools Found: 6714
-GSScraper:INFO - Queued Pages: 247 || Crawled Pages: 675 || Schools Found: 6724
-GSScraper:INFO - Queued Pages: 246 || Crawled Pages: 676 || Schools Found: 6734
-GSScraper:INFO - Queued Pages: 245 || Crawled Pages: 677 || Schools Found: 6744
-GSScraper:INFO - Queued Pages: 244 || Crawled Pages: 678 || Schools Found: 6758
-GSScraper:INFO - Queued Pages: 243 || Crawled Pages: 679 || Schools Found: 6764
-GSScraper:INFO - Queued Pages: 242 || Crawled Pages: 680 || Schools Found: 6774
-GSScraper:INFO - Queued Pages: 241 || Crawled Pages: 681 || Schools Found: 6784
-GSScraper:INFO - Queued Pages: 240 || Crawled Pages: 682 || Schools Found: 6794
-GSScraper:INFO - Queued Pages: 239 || Crawled Pages: 683 || Schools Found: 6804
-GSScraper:INFO - Queued Pages: 238 || Crawled Pages: 684 || Schools Found: 6814
-GSScraper:INFO - Queued Pages: 237 || Crawled Pages: 685 || Schools Found: 6824
-GSScraper:INFO - Queued Pages: 236 || Crawled Pages: 686 || Schools Found: 6834
-GSScraper:INFO - Queued Pages: 235 || Crawled Pages: 687 || Schools Found: 6844
-GSScraper:INFO - Queued Pages: 234 || Crawled Pages: 688 || Schools Found: 6854
-GSScraper:INFO - Queued Pages: 233 || Crawled Pages: 689 || Schools Found: 6872
-GSScraper:INFO - Queued Pages: 232 || Crawled Pages: 690 || Schools Found: 6874
-GSScraper:INFO - Queued Pages: 231 || Crawled Pages: 691 || Schools Found: 6884
-GSScraper:INFO - Queued Pages: 230 || Crawled Pages: 692 || Schools Found: 6894
-GSScraper:INFO - Queued Pages: 229 || Crawled Pages: 693 || Schools Found: 6904
-GSScraper:INFO - Queued Pages: 228 || Crawled Pages: 694 || Schools Found: 6914
-GSScraper:INFO - Queued Pages: 227 || Crawled Pages: 695 || Schools Found: 6924
-GSScraper:INFO - Queued Pages: 226 || Crawled Pages: 696 || Schools Found: 6934
-GSScraper:INFO - Queued Pages: 225 || Crawled Pages: 697 || Schools Found: 6944
-GSScraper:INFO - Queued Pages: 224 || Crawled Pages: 698 || Schools Found: 6954
-GSScraper:INFO - Queued Pages: 223 || Crawled Pages: 699 || Schools Found: 6964
-GSScraper:INFO - Queued Pages: 222 || Crawled Pages: 700 || Schools Found: 6974
-GSScraper:INFO - Queued Pages: 221 || Crawled Pages: 701 || Schools Found: 6984
-GSScraper:INFO - Queued Pages: 220 || Crawled Pages: 702 || Schools Found: 6994
-GSScraper:INFO - Queued Pages: 219 || Crawled Pages: 703 || Schools Found: 7004
-GSScraper:INFO - Queued Pages: 218 || Crawled Pages: 704 || Schools Found: 7014
-GSScraper:INFO - Queued Pages: 217 || Crawled Pages: 705 || Schools Found: 7024
-GSScraper:INFO - Queued Pages: 216 || Crawled Pages: 706 || Schools Found: 7034
-GSScraper:INFO - Queued Pages: 215 || Crawled Pages: 707 || Schools Found: 7044
-GSScraper:INFO - Queued Pages: 214 || Crawled Pages: 708 || Schools Found: 7054
-GSScraper:INFO - Queued Pages: 213 || Crawled Pages: 709 || Schools Found: 7064
-GSScraper:INFO - Queued Pages: 212 || Crawled Pages: 710 || Schools Found: 7074
-GSScraper:INFO - Queued Pages: 211 || Crawled Pages: 711 || Schools Found: 7084
-GSScraper:INFO - Queued Pages: 210 || Crawled Pages: 712 || Schools Found: 7094
-GSScraper:INFO - Queued Pages: 209 || Crawled Pages: 713 || Schools Found: 7104
-GSScraper:INFO - Queued Pages: 208 || Crawled Pages: 714 || Schools Found: 7114
-GSScraper:INFO - Queued Pages: 207 || Crawled Pages: 715 || Schools Found: 7132
-GSScraper:INFO - Queued Pages: 206 || Crawled Pages: 716 || Schools Found: 7134
-GSScraper:INFO - Queued Pages: 205 || Crawled Pages: 717 || Schools Found: 7144
-GSScraper:INFO - Queued Pages: 204 || Crawled Pages: 718 || Schools Found: 7154
-GSScraper:INFO - Queued Pages: 203 || Crawled Pages: 719 || Schools Found: 7164
-GSScraper:INFO - Queued Pages: 202 || Crawled Pages: 720 || Schools Found: 7174
-GSScraper:INFO - Queued Pages: 201 || Crawled Pages: 721 || Schools Found: 7184
-GSScraper:INFO - Queued Pages: 200 || Crawled Pages: 722 || Schools Found: 7207
-GSScraper:INFO - Queued Pages: 199 || Crawled Pages: 723 || Schools Found: 7209
-GSScraper:INFO - Queued Pages: 198 || Crawled Pages: 724 || Schools Found: 7214
-GSScraper:INFO - Queued Pages: 197 || Crawled Pages: 725 || Schools Found: 7224
-GSScraper:INFO - Queued Pages: 196 || Crawled Pages: 726 || Schools Found: 7234
-GSScraper:INFO - Queued Pages: 195 || Crawled Pages: 727 || Schools Found: 7244
-GSScraper:INFO - Queued Pages: 194 || Crawled Pages: 728 || Schools Found: 7254
-GSScraper:INFO - Queued Pages: 193 || Crawled Pages: 729 || Schools Found: 7271
-GSScraper:INFO - Queued Pages: 192 || Crawled Pages: 730 || Schools Found: 7274
-GSScraper:INFO - Queued Pages: 191 || Crawled Pages: 731 || Schools Found: 7284
-GSScraper:INFO - Queued Pages: 190 || Crawled Pages: 732 || Schools Found: 7294
-GSScraper:INFO - Queued Pages: 189 || Crawled Pages: 733 || Schools Found: 7304
-GSScraper:INFO - Queued Pages: 188 || Crawled Pages: 734 || Schools Found: 7314
-GSScraper:INFO - Queued Pages: 187 || Crawled Pages: 735 || Schools Found: 7324
-GSScraper:INFO - Queued Pages: 186 || Crawled Pages: 736 || Schools Found: 7334
-GSScraper:INFO - Queued Pages: 185 || Crawled Pages: 737 || Schools Found: 7344
-GSScraper:INFO - Queued Pages: 184 || Crawled Pages: 738 || Schools Found: 7356
-GSScraper:INFO - Queued Pages: 183 || Crawled Pages: 739 || Schools Found: 7364
-GSScraper:INFO - Queued Pages: 182 || Crawled Pages: 740 || Schools Found: 7374
-GSScraper:INFO - Queued Pages: 181 || Crawled Pages: 741 || Schools Found: 7384
-GSScraper:INFO - Queued Pages: 180 || Crawled Pages: 742 || Schools Found: 7394
-GSScraper:INFO - Queued Pages: 179 || Crawled Pages: 743 || Schools Found: 7404
-GSScraper:INFO - Queued Pages: 178 || Crawled Pages: 744 || Schools Found: 7414
-GSScraper:INFO - Queued Pages: 177 || Crawled Pages: 745 || Schools Found: 7424
-GSScraper:INFO - Queued Pages: 176 || Crawled Pages: 746 || Schools Found: 7434
-GSScraper:INFO - Queued Pages: 175 || Crawled Pages: 747 || Schools Found: 7444
-GSScraper:INFO - Queued Pages: 174 || Crawled Pages: 748 || Schools Found: 7454
-GSScraper:INFO - Queued Pages: 173 || Crawled Pages: 749 || Schools Found: 7464
-GSScraper:INFO - Queued Pages: 172 || Crawled Pages: 750 || Schools Found: 7474
-GSScraper:INFO - Queued Pages: 171 || Crawled Pages: 751 || Schools Found: 7484
-GSScraper:INFO - Queued Pages: 170 || Crawled Pages: 752 || Schools Found: 7494
-GSScraper:INFO - Queued Pages: 169 || Crawled Pages: 753 || Schools Found: 7504
-GSScraper:INFO - Queued Pages: 168 || Crawled Pages: 754 || Schools Found: 7514
-GSScraper:INFO - Queued Pages: 167 || Crawled Pages: 755 || Schools Found: 7523
-GSScraper:INFO - Queued Pages: 166 || Crawled Pages: 756 || Schools Found: 7533
-GSScraper:INFO - Queued Pages: 165 || Crawled Pages: 757 || Schools Found: 7543
-GSScraper:WARNING - Error fetching info from page {'keywords': '', 'distance': '100km', 'page': '765'}. Retrying...
-GSScraper:WARNING - Error fetching info from page {'keywords': '', 'distance': '100km', 'page': '765'}. Retrying...
-GSScraper:WARNING - Error fetching info from page {'keywords': '', 'distance': '100km', 'page': '767'}. Retrying...
-GSScraper:WARNING - Error fetching info from page {'keywords': '', 'distance': '100km', 'page': '765'}. Retrying...
-GSScraper:ERROR - FATAL ERROR: Failed to retrieve info after three attempts!
-NoneType: None
-GSScraper:INFO - Queued Pages: 164 || Crawled Pages: 758 || Schools Found: 7553
-GSScraper:INFO - Queued Pages: 163 || Crawled Pages: 759 || Schools Found: 7563
-GSScraper:INFO - Queued Pages: 162 || Crawled Pages: 760 || Schools Found: 7573
-GSScraper:INFO - Queued Pages: 161 || Crawled Pages: 761 || Schools Found: 7583
-GSScraper:INFO - Queued Pages: 160 || Crawled Pages: 762 || Schools Found: 7593
-GSScraper:INFO - Queued Pages: 159 || Crawled Pages: 763 || Schools Found: 7603
-GSScraper:INFO - Queued Pages: 158 || Crawled Pages: 764 || Schools Found: 7613
-GSScraper:INFO - Queued Pages: 157 || Crawled Pages: 765 || Schools Found: 7623
-GSScraper:INFO - Queued Pages: 156 || Crawled Pages: 766 || Schools Found: 7633
-GSScraper:INFO - Queued Pages: 155 || Crawled Pages: 767 || Schools Found: 7643
-GSScraper:INFO - Queued Pages: 154 || Crawled Pages: 768 || Schools Found: 7653
-GSScraper:INFO - Queued Pages: 153 || Crawled Pages: 769 || Schools Found: 7663
-GSScraper:INFO - Queued Pages: 152 || Crawled Pages: 770 || Schools Found: 7673
-GSScraper:INFO - Queued Pages: 151 || Crawled Pages: 771 || Schools Found: 7683
-GSScraper:INFO - Queued Pages: 150 || Crawled Pages: 772 || Schools Found: 7693
-GSScraper:INFO - Queued Pages: 149 || Crawled Pages: 773 || Schools Found: 7703
-GSScraper:INFO - Queued Pages: 148 || Crawled Pages: 774 || Schools Found: 7713
-GSScraper:INFO - Queued Pages: 147 || Crawled Pages: 775 || Schools Found: 7723
-GSScraper:INFO - Queued Pages: 146 || Crawled Pages: 776 || Schools Found: 7733
-GSScraper:INFO - Queued Pages: 145 || Crawled Pages: 777 || Schools Found: 7743
-GSScraper:INFO - Queued Pages: 144 || Crawled Pages: 778 || Schools Found: 7753
-GSScraper:INFO - Queued Pages: 143 || Crawled Pages: 779 || Schools Found: 7763
-GSScraper:INFO - Queued Pages: 142 || Crawled Pages: 780 || Schools Found: 7773
-GSScraper:INFO - Queued Pages: 141 || Crawled Pages: 781 || Schools Found: 7783
-GSScraper:INFO - Queued Pages: 140 || Crawled Pages: 782 || Schools Found: 7793
-GSScraper:INFO - Queued Pages: 139 || Crawled Pages: 783 || Schools Found: 7803
-GSScraper:INFO - Queued Pages: 138 || Crawled Pages: 784 || Schools Found: 7813
-GSScraper:INFO - Queued Pages: 137 || Crawled Pages: 785 || Schools Found: 7823
-GSScraper:INFO - Queued Pages: 136 || Crawled Pages: 786 || Schools Found: 7833
-GSScraper:INFO - Queued Pages: 135 || Crawled Pages: 787 || Schools Found: 7843
-GSScraper:INFO - Queued Pages: 134 || Crawled Pages: 788 || Schools Found: 7853
-GSScraper:INFO - Queued Pages: 133 || Crawled Pages: 789 || Schools Found: 7863
-GSScraper:INFO - Queued Pages: 132 || Crawled Pages: 790 || Schools Found: 7873
-GSScraper:INFO - Queued Pages: 131 || Crawled Pages: 791 || Schools Found: 7883
-GSScraper:INFO - Queued Pages: 130 || Crawled Pages: 792 || Schools Found: 7893
-GSScraper:INFO - Queued Pages: 129 || Crawled Pages: 793 || Schools Found: 7903
-GSScraper:INFO - Queued Pages: 128 || Crawled Pages: 794 || Schools Found: 7913
-GSScraper:INFO - Queued Pages: 127 || Crawled Pages: 795 || Schools Found: 7923
-GSScraper:INFO - Queued Pages: 126 || Crawled Pages: 796 || Schools Found: 7933
-GSScraper:INFO - Queued Pages: 125 || Crawled Pages: 797 || Schools Found: 7944
-GSScraper:INFO - Queued Pages: 124 || Crawled Pages: 798 || Schools Found: 7953
-GSScraper:INFO - Queued Pages: 123 || Crawled Pages: 799 || Schools Found: 7963
-GSScraper:INFO - Queued Pages: 122 || Crawled Pages: 800 || Schools Found: 7973
-GSScraper:INFO - Queued Pages: 121 || Crawled Pages: 801 || Schools Found: 7983
-GSScraper:INFO - Queued Pages: 120 || Crawled Pages: 802 || Schools Found: 7993
-GSScraper:INFO - Queued Pages: 119 || Crawled Pages: 803 || Schools Found: 8003
-GSScraper:INFO - Queued Pages: 118 || Crawled Pages: 804 || Schools Found: 8013
-GSScraper:INFO - Queued Pages: 117 || Crawled Pages: 805 || Schools Found: 8023
-GSScraper:INFO - Queued Pages: 116 || Crawled Pages: 806 || Schools Found: 8033
-GSScraper:INFO - Queued Pages: 115 || Crawled Pages: 807 || Schools Found: 8043
-GSScraper:INFO - Queued Pages: 114 || Crawled Pages: 808 || Schools Found: 8053
-GSScraper:INFO - Queued Pages: 113 || Crawled Pages: 809 || Schools Found: 8063
-GSScraper:INFO - Queued Pages: 112 || Crawled Pages: 810 || Schools Found: 8073
-GSScraper:INFO - Queued Pages: 111 || Crawled Pages: 811 || Schools Found: 8083
-GSScraper:INFO - Queued Pages: 110 || Crawled Pages: 812 || Schools Found: 8093
-GSScraper:INFO - Queued Pages: 109 || Crawled Pages: 813 || Schools Found: 8103
-GSScraper:INFO - Queued Pages: 108 || Crawled Pages: 814 || Schools Found: 8113
-GSScraper:INFO - Queued Pages: 107 || Crawled Pages: 815 || Schools Found: 8123
-GSScraper:INFO - Queued Pages: 106 || Crawled Pages: 816 || Schools Found: 8133
-GSScraper:INFO - Queued Pages: 105 || Crawled Pages: 817 || Schools Found: 8143
-GSScraper:INFO - Queued Pages: 104 || Crawled Pages: 818 || Schools Found: 8153
-GSScraper:INFO - Queued Pages: 103 || Crawled Pages: 819 || Schools Found: 8163
-GSScraper:INFO - Queued Pages: 102 || Crawled Pages: 820 || Schools Found: 8173
-GSScraper:INFO - Queued Pages: 101 || Crawled Pages: 821 || Schools Found: 8183
-GSScraper:INFO - Queued Pages: 100 || Crawled Pages: 822 || Schools Found: 8192
-GSScraper:INFO - Queued Pages: 99 || Crawled Pages: 823 || Schools Found: 8202
-GSScraper:INFO - Queued Pages: 98 || Crawled Pages: 824 || Schools Found: 8212
-GSScraper:INFO - Queued Pages: 97 || Crawled Pages: 825 || Schools Found: 8222
-GSScraper:INFO - Queued Pages: 96 || Crawled Pages: 826 || Schools Found: 8232
-GSScraper:INFO - Queued Pages: 95 || Crawled Pages: 827 || Schools Found: 8242
-GSScraper:INFO - Queued Pages: 94 || Crawled Pages: 828 || Schools Found: 8252
-GSScraper:INFO - Queued Pages: 93 || Crawled Pages: 829 || Schools Found: 8262
-GSScraper:INFO - Queued Pages: 92 || Crawled Pages: 830 || Schools Found: 8272
-GSScraper:INFO - Queued Pages: 91 || Crawled Pages: 831 || Schools Found: 8282
-GSScraper:INFO - Queued Pages: 90 || Crawled Pages: 832 || Schools Found: 8292
-GSScraper:INFO - Queued Pages: 89 || Crawled Pages: 833 || Schools Found: 8302
-GSScraper:INFO - Queued Pages: 88 || Crawled Pages: 834 || Schools Found: 8312
-GSScraper:INFO - Queued Pages: 87 || Crawled Pages: 835 || Schools Found: 8322
-GSScraper:INFO - Queued Pages: 86 || Crawled Pages: 836 || Schools Found: 8332
-GSScraper:INFO - Queued Pages: 85 || Crawled Pages: 837 || Schools Found: 8342
-GSScraper:INFO - Queued Pages: 84 || Crawled Pages: 838 || Schools Found: 8352
-GSScraper:INFO - Queued Pages: 83 || Crawled Pages: 839 || Schools Found: 8362
-GSScraper:INFO - Queued Pages: 82 || Crawled Pages: 840 || Schools Found: 8374
-GSScraper:INFO - Queued Pages: 81 || Crawled Pages: 841 || Schools Found: 8382
-GSScraper:INFO - Queued Pages: 80 || Crawled Pages: 842 || Schools Found: 8392
-GSScraper:INFO - Queued Pages: 79 || Crawled Pages: 843 || Schools Found: 8402
-GSScraper:INFO - Queued Pages: 78 || Crawled Pages: 844 || Schools Found: 8412
-GSScraper:INFO - Queued Pages: 77 || Crawled Pages: 845 || Schools Found: 8423
-GSScraper:INFO - Queued Pages: 76 || Crawled Pages: 846 || Schools Found: 8432
-GSScraper:INFO - Queued Pages: 75 || Crawled Pages: 847 || Schools Found: 8442
-GSScraper:INFO - Queued Pages: 74 || Crawled Pages: 848 || Schools Found: 8452
-GSScraper:INFO - Queued Pages: 73 || Crawled Pages: 849 || Schools Found: 8462
-GSScraper:INFO - Queued Pages: 72 || Crawled Pages: 850 || Schools Found: 8472
-GSScraper:INFO - Queued Pages: 71 || Crawled Pages: 851 || Schools Found: 8481
-GSScraper:INFO - Queued Pages: 70 || Crawled Pages: 852 || Schools Found: 8491
-GSScraper:INFO - Queued Pages: 69 || Crawled Pages: 853 || Schools Found: 8505
-GSScraper:INFO - Queued Pages: 68 || Crawled Pages: 854 || Schools Found: 8510
-GSScraper:INFO - Queued Pages: 67 || Crawled Pages: 855 || Schools Found: 8520
-GSScraper:INFO - Queued Pages: 66 || Crawled Pages: 856 || Schools Found: 8530
-GSScraper:INFO - Queued Pages: 65 || Crawled Pages: 857 || Schools Found: 8540
-GSScraper:INFO - Queued Pages: 64 || Crawled Pages: 858 || Schools Found: 8550
-GSScraper:INFO - Queued Pages: 63 || Crawled Pages: 859 || Schools Found: 8560
-GSScraper:INFO - Queued Pages: 62 || Crawled Pages: 860 || Schools Found: 8570
-GSScraper:INFO - Queued Pages: 61 || Crawled Pages: 861 || Schools Found: 8579
-GSScraper:INFO - Queued Pages: 60 || Crawled Pages: 862 || Schools Found: 8589
-GSScraper:INFO - Queued Pages: 59 || Crawled Pages: 863 || Schools Found: 8599
-GSScraper:INFO - Queued Pages: 58 || Crawled Pages: 864 || Schools Found: 8609
-GSScraper:INFO - Queued Pages: 57 || Crawled Pages: 865 || Schools Found: 8619
-GSScraper:INFO - Queued Pages: 56 || Crawled Pages: 866 || Schools Found: 8638
-GSScraper:INFO - Queued Pages: 55 || Crawled Pages: 867 || Schools Found: 8639
-GSScraper:INFO - Queued Pages: 54 || Crawled Pages: 868 || Schools Found: 8649
-GSScraper:INFO - Queued Pages: 53 || Crawled Pages: 869 || Schools Found: 8659
-GSScraper:INFO - Queued Pages: 52 || Crawled Pages: 870 || Schools Found: 8669
-GSScraper:INFO - Queued Pages: 51 || Crawled Pages: 871 || Schools Found: 8679
-GSScraper:INFO - Queued Pages: 50 || Crawled Pages: 872 || Schools Found: 8689
-GSScraper:INFO - Queued Pages: 49 || Crawled Pages: 873 || Schools Found: 8699
-GSScraper:INFO - Queued Pages: 48 || Crawled Pages: 874 || Schools Found: 8709
-GSScraper:INFO - Queued Pages: 47 || Crawled Pages: 875 || Schools Found: 8719
-GSScraper:INFO - Queued Pages: 46 || Crawled Pages: 876 || Schools Found: 8729
-GSScraper:INFO - Queued Pages: 45 || Crawled Pages: 877 || Schools Found: 8739
-GSScraper:INFO - Queued Pages: 44 || Crawled Pages: 878 || Schools Found: 8749
-GSScraper:INFO - Queued Pages: 43 || Crawled Pages: 879 || Schools Found: 8759
-GSScraper:INFO - Queued Pages: 42 || Crawled Pages: 880 || Schools Found: 8769
-GSScraper:INFO - Queued Pages: 41 || Crawled Pages: 881 || Schools Found: 8780
-GSScraper:INFO - Queued Pages: 40 || Crawled Pages: 882 || Schools Found: 8789
-GSScraper:INFO - Queued Pages: 39 || Crawled Pages: 883 || Schools Found: 8799
-GSScraper:INFO - Queued Pages: 38 || Crawled Pages: 884 || Schools Found: 8809
-GSScraper:INFO - Queued Pages: 37 || Crawled Pages: 885 || Schools Found: 8819
-GSScraper:INFO - Queued Pages: 36 || Crawled Pages: 886 || Schools Found: 8829
-GSScraper:INFO - Queued Pages: 35 || Crawled Pages: 887 || Schools Found: 8839
-GSScraper:INFO - Queued Pages: 34 || Crawled Pages: 888 || Schools Found: 8849
-GSScraper:INFO - Queued Pages: 33 || Crawled Pages: 889 || Schools Found: 8859
-GSScraper:INFO - Queued Pages: 32 || Crawled Pages: 890 || Schools Found: 8869
-GSScraper:INFO - Queued Pages: 31 || Crawled Pages: 891 || Schools Found: 8879
-GSScraper:INFO - Queued Pages: 30 || Crawled Pages: 892 || Schools Found: 8889
-GSScraper:INFO - Queued Pages: 29 || Crawled Pages: 893 || Schools Found: 8899
-GSScraper:INFO - Queued Pages: 28 || Crawled Pages: 894 || Schools Found: 8909
-GSScraper:INFO - Queued Pages: 27 || Crawled Pages: 895 || Schools Found: 8919
-GSScraper:INFO - Queued Pages: 26 || Crawled Pages: 896 || Schools Found: 8929
-GSScraper:INFO - Queued Pages: 25 || Crawled Pages: 897 || Schools Found: 8939
-GSScraper:INFO - Queued Pages: 24 || Crawled Pages: 898 || Schools Found: 8949
-GSScraper:INFO - Queued Pages: 23 || Crawled Pages: 899 || Schools Found: 8959
-GSScraper:INFO - Queued Pages: 22 || Crawled Pages: 900 || Schools Found: 8969
-GSScraper:INFO - Queued Pages: 21 || Crawled Pages: 901 || Schools Found: 8979
-GSScraper:INFO - Queued Pages: 20 || Crawled Pages: 902 || Schools Found: 8989
-GSScraper:INFO - Queued Pages: 19 || Crawled Pages: 903 || Schools Found: 8999
-GSScraper:INFO - Queued Pages: 18 || Crawled Pages: 904 || Schools Found: 9009
-GSScraper:INFO - Queued Pages: 17 || Crawled Pages: 905 || Schools Found: 9019
-GSScraper:INFO - Queued Pages: 16 || Crawled Pages: 906 || Schools Found: 9029
-GSScraper:INFO - Queued Pages: 15 || Crawled Pages: 907 || Schools Found: 9039
-GSScraper:INFO - Queued Pages: 14 || Crawled Pages: 908 || Schools Found: 9057
-GSScraper:INFO - Queued Pages: 13 || Crawled Pages: 909 || Schools Found: 9059
-GSScraper:INFO - Queued Pages: 12 || Crawled Pages: 910 || Schools Found: 9069
-GSScraper:INFO - Queued Pages: 11 || Crawled Pages: 911 || Schools Found: 9079
-GSScraper:INFO - Queued Pages: 10 || Crawled Pages: 912 || Schools Found: 9089
-GSScraper:INFO - Queued Pages: 9 || Crawled Pages: 913 || Schools Found: 9099
-GSScraper:INFO - Queued Pages: 8 || Crawled Pages: 914 || Schools Found: 9109
-GSScraper:INFO - Queued Pages: 7 || Crawled Pages: 915 || Schools Found: 9127
-GSScraper:INFO - Queued Pages: 6 || Crawled Pages: 916 || Schools Found: 9128
-GSScraper:INFO - Queued Pages: 5 || Crawled Pages: 917 || Schools Found: 9138
+GSScraper:INFO - Scraping schools from government and independent sector
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:WARNING - Error fetching info from page 2. Retrying...
+GSScraper:INFO - Queued Pages: 753 || Crawled Pages: 1 || Schools Found: 10
+GSScraper:INFO - Queued Pages: 752 || Crawled Pages: 2 || Schools Found: 20
+GSScraper:INFO - Queued Pages: 751 || Crawled Pages: 3 || Schools Found: 30
+GSScraper:INFO - Queued Pages: 750 || Crawled Pages: 4 || Schools Found: 40
+GSScraper:INFO - Queued Pages: 749 || Crawled Pages: 5 || Schools Found: 50
+GSScraper:INFO - Queued Pages: 748 || Crawled Pages: 6 || Schools Found: 60
+GSScraper:INFO - Queued Pages: 747 || Crawled Pages: 7 || Schools Found: 70
+GSScraper:INFO - Queued Pages: 746 || Crawled Pages: 8 || Schools Found: 80
+GSScraper:INFO - Queued Pages: 745 || Crawled Pages: 9 || Schools Found: 89
+GSScraper:INFO - Queued Pages: 744 || Crawled Pages: 10 || Schools Found: 99
+GSScraper:INFO - Saving data retrieved to csv...
+GSScraper:INFO - 100 records saved to results_2023-09-05.csv
+GSScraper:INFO - Queued Pages: 743 || Crawled Pages: 11 || Schools Found: 109
