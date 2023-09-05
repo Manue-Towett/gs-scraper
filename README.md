@@ -16,7 +16,7 @@ Configure the following settings for the scraper using the settings json file:
 
     - sectors:
         - determine whether to scrape schools from government, independent or catholic sectors
-        - values are ["g", "i", "c"]
+        - values are any of ["g", "i", "c"]
             ```
             g = government
             i = independent
@@ -26,7 +26,7 @@ Configure the following settings for the scraper using the settings json file:
     
     - levels:
         - determine whether to scrape schools from primary, secondary or combined levels
-        - values are ["p", "s", "c"]
+        - values are any of ["p", "s", "c"]
             ```
             p = primary
             s = secondary
