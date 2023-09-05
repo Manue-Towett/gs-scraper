@@ -40,9 +40,14 @@ Configure the following settings for the scraper using the settings json file:
 - Open the terminal
 - change terminal's directory into the project directory
 - If running for the first time, install dependencies using the command:
+    
     ```pip install -r requirements.txt```
+
 - Run the script using the command:
     - For linux/mac:
+        
         ```python3 main.py```
+
     - For windows:
+        
         ```python main.py```
