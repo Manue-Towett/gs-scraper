@@ -1,40 +1,38 @@
-GSScraper:INFO - *****GSScraper*****
-GSScraper:INFO - Scraping schools from government and independent sector
-GSScraper:INFO - Queued Pages: 753 || Crawled Pages: 1 || Schools Found: 10
-GSScraper:INFO - Queued Pages: 752 || Crawled Pages: 2 || Schools Found: 19
-GSScraper:INFO - Queued Pages: 751 || Crawled Pages: 3 || Schools Found: 29
-GSScraper:INFO - Queued Pages: 750 || Crawled Pages: 4 || Schools Found: 39
-GSScraper:INFO - Queued Pages: 749 || Crawled Pages: 5 || Schools Found: 49
-GSScraper:INFO - Queued Pages: 748 || Crawled Pages: 6 || Schools Found: 59
-GSScraper:INFO - Queued Pages: 747 || Crawled Pages: 7 || Schools Found: 69
-GSScraper:INFO - Queued Pages: 746 || Crawled Pages: 8 || Schools Found: 79
-GSScraper:INFO - Queued Pages: 745 || Crawled Pages: 9 || Schools Found: 89
-GSScraper:INFO - Queued Pages: 744 || Crawled Pages: 10 || Schools Found: 99
-GSScraper:INFO - Queued Pages: 743 || Crawled Pages: 11 || Schools Found: 109
-GSScraper:INFO - Queued Pages: 742 || Crawled Pages: 12 || Schools Found: 119
-GSScraper:INFO - Queued Pages: 741 || Crawled Pages: 13 || Schools Found: 129
-GSScraper:INFO - Queued Pages: 740 || Crawled Pages: 14 || Schools Found: 139
-GSScraper:INFO - Queued Pages: 739 || Crawled Pages: 15 || Schools Found: 149
-GSScraper:INFO - Queued Pages: 738 || Crawled Pages: 16 || Schools Found: 159
-GSScraper:INFO - Queued Pages: 737 || Crawled Pages: 17 || Schools Found: 169
-GSScraper:INFO - Queued Pages: 736 || Crawled Pages: 18 || Schools Found: 179
-GSScraper:INFO - Queued Pages: 735 || Crawled Pages: 19 || Schools Found: 189
-GSScraper:INFO - Queued Pages: 734 || Crawled Pages: 20 || Schools Found: 199
-GSScraper:INFO - Queued Pages: 733 || Crawled Pages: 21 || Schools Found: 209
-GSScraper:INFO - Queued Pages: 732 || Crawled Pages: 22 || Schools Found: 219
-GSScraper:INFO - Queued Pages: 731 || Crawled Pages: 23 || Schools Found: 229
-GSScraper:INFO - Queued Pages: 730 || Crawled Pages: 24 || Schools Found: 239
-GSScraper:INFO - Queued Pages: 729 || Crawled Pages: 25 || Schools Found: 249
-GSScraper:INFO - Queued Pages: 728 || Crawled Pages: 26 || Schools Found: 259
-GSScraper:INFO - Queued Pages: 727 || Crawled Pages: 27 || Schools Found: 269
-GSScraper:INFO - Queued Pages: 726 || Crawled Pages: 28 || Schools Found: 279
-GSScraper:INFO - Queued Pages: 725 || Crawled Pages: 29 || Schools Found: 289
-GSScraper:INFO - Queued Pages: 724 || Crawled Pages: 30 || Schools Found: 299
-GSScraper:INFO - Saving data retrieved to csv...
-GSScraper:INFO - 300 records saved to results_2023-09-06.csv
-GSScraper:INFO - Queued Pages: 723 || Crawled Pages: 31 || Schools Found: 309
-GSScraper:INFO - Queued Pages: 722 || Crawled Pages: 32 || Schools Found: 319
-GSScraper:INFO - Queued Pages: 721 || Crawled Pages: 33 || Schools Found: 329
-GSScraper:INFO - Queued Pages: 720 || Crawled Pages: 34 || Schools Found: 339
-GSScraper:INFO - Queued Pages: 719 || Crawled Pages: 35 || Schools Found: 349
-GSScraper:INFO - Queued Pages: 718 || Crawled Pages: 36 || Schools Found: 359
+StatesFilter:INFO - ****StatesFilter Started*****
+StatesFilter:INFO - Reading the file >>> results_2023-09-06.csv
+StatesFilter:INFO - Number of schools found: 300
+StatesFilter:INFO - Extracting states from the data...
+StatesFilter:INFO - Number of states found: 8 || Filtering schools for each state...
+StatesFilter:INFO - Filtering schools from >>> VIC
+StatesFilter:INFO - Filtering schools from >>> SA
+StatesFilter:INFO - Filtering schools from >>> ACT
+StatesFilter:INFO - Filtering schools from >>> QLD
+StatesFilter:INFO - Filtering schools from >>> NT
+StatesFilter:INFO - Number of schools found in VIC: 126
+StatesFilter:INFO - Filtering schools from >>> NSW
+StatesFilter:INFO - Filtering schools from >>> WA
+StatesFilter:INFO - Number of schools found in SA: 14
+StatesFilter:INFO - Filtering schools from >>> TAS
+StatesFilter:INFO - Number of schools found in ACT: 4
+StatesFilter:INFO - Number of schools found in NT: 11
+StatesFilter:INFO - Number of schools found in QLD: 57
+StatesFilter:INFO - Saving data from VIC to csv...
+StatesFilter:INFO - Number of schools found in NSW: 58
+StatesFilter:INFO - Saving data from NSW to csv...
+StatesFilter:INFO - Saving data from ACT to csv...
+StatesFilter:INFO - Number of schools found in WA: 27
+StatesFilter:INFO - Number of schools found in TAS: 3
+StatesFilter:INFO - Saving data from NT to csv...
+StatesFilter:INFO - Saving data from QLD to csv...
+StatesFilter:INFO - Saving data from SA to csv...
+StatesFilter:INFO - Saving data from WA to csv...
+StatesFilter:INFO - 4 records saved to ./states/ACT_combined_.csv
+StatesFilter:INFO - 58 records saved to ./states/NSW_combined_.csv
+StatesFilter:INFO - Saving data from TAS to csv...
+StatesFilter:INFO - 11 records saved to ./states/NT_combined_.csv
+StatesFilter:INFO - 57 records saved to ./states/QLD_combined_.csv
+StatesFilter:INFO - 14 records saved to ./states/SA_combined_.csv
+StatesFilter:INFO - 3 records saved to ./states/TAS_combined_.csv
+StatesFilter:INFO - 27 records saved to ./states/WA_combined_.csv
+StatesFilter:INFO - 126 records saved to ./states/VIC_combined_.csv
+StatesFilter:INFO - Done.

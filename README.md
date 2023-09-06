@@ -51,3 +51,21 @@ Configure the following settings for the scraper using the settings json file:
     - For windows:
         
         ```python main.py```
+
+# states filter
+Filter the schools in a csv by state
+
+#### Configuration
+- use the settings.ini file to configure:
+    - input path for the input csv
+    - output path for the resulting csv files
+
+#### Usage
+- Run the script using the command:
+    - For linux/mac:
+        
+        ```python3 states.py```
+
+    - For windows:
+        
+        ```python states.py```

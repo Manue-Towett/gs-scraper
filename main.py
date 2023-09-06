@@ -46,7 +46,7 @@ class GSScraper:
     """Scrapes schools from https://www.goodschools.com.au/"""
     def __init__(self) -> None:
         self.logger = Logger(__class__.__name__)
-        self.logger.info("*"*5 + __class__.__name__ + "*"*5)
+        self.logger.info("*"*5 + __class__.__name__ + " started" + "*"*5)
 
         self.schools = []
         self.crawled = []
